@@ -1,0 +1,4217 @@
+{
+    "/source/movil/20240201_MCONPUBVVSE3_29849.DAT": {
+        "total_lineas": 23673,
+        "linea_actual": 23673,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE4_29814.DAT": {
+        "total_lineas": 19621,
+        "linea_actual": 19621,
+        "estado": "Completado"
+    },
+    "/source/fija/20240201_MCONPUBVVSE1_23555.DAT": {
+        "total_lineas": 9739,
+        "linea_actual": 9739,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE4_29815.DAT": {
+        "total_lineas": 9812,
+        "linea_actual": 9812,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE3_29850.DAT": {
+        "total_lineas": 11135,
+        "linea_actual": 11135,
+        "estado": "Completado"
+    },
+    "/source/fija/20240201_MCONPUBVVSE1_23556.DAT": {
+        "total_lineas": 9452,
+        "linea_actual": 9452,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE4_29816.DAT": {
+        "total_lineas": 5182,
+        "linea_actual": 5182,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE3_29851.DAT": {
+        "total_lineas": 5151,
+        "linea_actual": 5151,
+        "estado": "Completado"
+    },
+    "/source/fija/20240201_MCONPUBVVSE1_23557.DAT": {
+        "total_lineas": 7429,
+        "linea_actual": 7429,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE4_29817.DAT": {
+        "total_lineas": 46020,
+        "linea_actual": 46020,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE3_29852.DAT": {
+        "total_lineas": 43569,
+        "linea_actual": 43569,
+        "estado": "Completado"
+    },
+    "/source/fija/20240201_MCONPUBVVSE1_23558.DAT": {
+        "total_lineas": 50332,
+        "linea_actual": 50332,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE3_29853.DAT": {
+        "total_lineas": 50894,
+        "linea_actual": 50894,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE4_29818.DAT": {
+        "total_lineas": 48659,
+        "linea_actual": 48659,
+        "estado": "Completado"
+    },
+    "/source/fija/20240201_MCONPUBVVSE1_23559.DAT": {
+        "total_lineas": 7379,
+        "linea_actual": 7379,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE3_29854.DAT": {
+        "total_lineas": 32965,
+        "linea_actual": 32965,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE4_29819.DAT": {
+        "total_lineas": 23592,
+        "linea_actual": 23592,
+        "estado": "Completado"
+    },
+    "/source/fija/20240201_MCONPUBVVSE1_23560.DAT": {
+        "total_lineas": 6815,
+        "linea_actual": 6815,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE4_29820.DAT": {
+        "total_lineas": 3457,
+        "linea_actual": 3457,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE3_29855.DAT": {
+        "total_lineas": 3376,
+        "linea_actual": 3376,
+        "estado": "Completado"
+    },
+    "/source/fija/20240201_MCONPUBVVSE1_23561.DAT": {
+        "total_lineas": 7127,
+        "linea_actual": 7127,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE3_29856.DAT": {
+        "total_lineas": 7264,
+        "linea_actual": 7264,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE4_29821.DAT": {
+        "total_lineas": 7139,
+        "linea_actual": 7139,
+        "estado": "Completado"
+    },
+    "/source/fija/20240201_MCONPUBVVSE1_23562.DAT": {
+        "total_lineas": 7358,
+        "linea_actual": 7358,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE3_29857.DAT": {
+        "total_lineas": 25848,
+        "linea_actual": 25848,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE4_29822.DAT": {
+        "total_lineas": 23268,
+        "linea_actual": 23268,
+        "estado": "Completado"
+    },
+    "/source/fija/20240201_MCONPUBVVSE1_23563.DAT": {
+        "total_lineas": 8223,
+        "linea_actual": 8223,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE4_29823.DAT": {
+        "total_lineas": 87112,
+        "linea_actual": 87112,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE3_29858.DAT": {
+        "total_lineas": 101420,
+        "linea_actual": 101420,
+        "estado": "Completado"
+    },
+    "/source/fija/20240201_MCONPUBVVSE1_23564.DAT": {
+        "total_lineas": 11725,
+        "linea_actual": 11725,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE3_29859.DAT": {
+        "total_lineas": 237412,
+        "linea_actual": 237412,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE4_29824.DAT": {
+        "total_lineas": 200465,
+        "linea_actual": 200465,
+        "estado": "Completado"
+    },
+    "/source/fija/20240201_MCONPUBVVSE1_23565.DAT": {
+        "total_lineas": 21169,
+        "linea_actual": 21169,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE4_29825.DAT": {
+        "total_lineas": 285043,
+        "linea_actual": 285043,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE3_29860.DAT": {
+        "total_lineas": 336573,
+        "linea_actual": 336573,
+        "estado": "Completado"
+    },
+    "/source/fija/20240201_MCONPUBVVSE1_23566.DAT": {
+        "total_lineas": 24760,
+        "linea_actual": 24760,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE3_29861.DAT": {
+        "total_lineas": 371375,
+        "linea_actual": 371375,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE4_29826.DAT": {
+        "total_lineas": 317039,
+        "linea_actual": 317039,
+        "estado": "Completado"
+    },
+    "/source/fija/20240201_MCONPUBVVSE1_23567.DAT": {
+        "total_lineas": 26479,
+        "linea_actual": 26479,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE3_29862.DAT": {
+        "total_lineas": 391722,
+        "linea_actual": 391722,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE4_29827.DAT": {
+        "total_lineas": 334988,
+        "linea_actual": 334988,
+        "estado": "Completado"
+    },
+    "/source/fija/20240201_MCONPUBVVSE1_23568.DAT": {
+        "total_lineas": 27281,
+        "linea_actual": 27281,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE3_29863.DAT": {
+        "total_lineas": 391551,
+        "linea_actual": 391551,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE4_29828.DAT": {
+        "total_lineas": 337207,
+        "linea_actual": 337207,
+        "estado": "Completado"
+    },
+    "/source/fija/20240201_MCONPUBVVSE1_23569.DAT": {
+        "total_lineas": 27523,
+        "linea_actual": 27523,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE3_29864.DAT": {
+        "total_lineas": 312056,
+        "linea_actual": 312056,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE4_29829.DAT": {
+        "total_lineas": 272049,
+        "linea_actual": 272049,
+        "estado": "Completado"
+    },
+    "/source/fija/20240201_MCONPUBVVSE1_23570.DAT": {
+        "total_lineas": 22871,
+        "linea_actual": 22871,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE3_29865.DAT": {
+        "total_lineas": 261232,
+        "linea_actual": 261232,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE4_29830.DAT": {
+        "total_lineas": 228919,
+        "linea_actual": 228919,
+        "estado": "Completado"
+    },
+    "/source/fija/20240201_MCONPUBVVSE1_23571.DAT": {
+        "total_lineas": 20191,
+        "linea_actual": 20191,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE3_29866.DAT": {
+        "total_lineas": 294140,
+        "linea_actual": 294140,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE4_29831.DAT": {
+        "total_lineas": 252226,
+        "linea_actual": 252226,
+        "estado": "Completado"
+    },
+    "/source/fija/20240201_MCONPUBVVSE1_23572.DAT": {
+        "total_lineas": 21383,
+        "linea_actual": 21383,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE3_29867.DAT": {
+        "total_lineas": 312539,
+        "linea_actual": 312539,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE4_29832.DAT": {
+        "total_lineas": 268242,
+        "linea_actual": 268242,
+        "estado": "Completado"
+    },
+    "/source/fija/20240201_MCONPUBVVSE1_23573.DAT": {
+        "total_lineas": 22267,
+        "linea_actual": 22267,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE4_29833.DAT": {
+        "total_lineas": 258593,
+        "linea_actual": 258593,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE3_29868.DAT": {
+        "total_lineas": 305276,
+        "linea_actual": 305276,
+        "estado": "Completado"
+    },
+    "/source/fija/20240201_MCONPUBVVSE1_23574.DAT": {
+        "total_lineas": 24023,
+        "linea_actual": 24023,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE3_29869.DAT": {
+        "total_lineas": 280988,
+        "linea_actual": 280988,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE4_29834.DAT": {
+        "total_lineas": 237393,
+        "linea_actual": 237393,
+        "estado": "Completado"
+    },
+    "/source/fija/20240201_MCONPUBVVSE1_23575.DAT": {
+        "total_lineas": 22391,
+        "linea_actual": 22391,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE4_29835.DAT": {
+        "total_lineas": 182932,
+        "linea_actual": 182932,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE3_29870.DAT": {
+        "total_lineas": 213461,
+        "linea_actual": 213461,
+        "estado": "Completado"
+    },
+    "/source/fija/20240201_MCONPUBVVSE1_23576.DAT": {
+        "total_lineas": 19773,
+        "linea_actual": 19773,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE3_29871.DAT": {
+        "total_lineas": 107535,
+        "linea_actual": 107535,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE4_29836.DAT": {
+        "total_lineas": 90239,
+        "linea_actual": 90239,
+        "estado": "Completado"
+    },
+    "/source/fija/20240201_MCONPUBVVSE1_23577.DAT": {
+        "total_lineas": 15362,
+        "linea_actual": 15362,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE3_29872.DAT": {
+        "total_lineas": 50832,
+        "linea_actual": 50832,
+        "estado": "Completado"
+    },
+    "/source/movil/20240201_MCONPUBVVSE4_29837.DAT": {
+        "total_lineas": 42966,
+        "linea_actual": 42966,
+        "estado": "Completado"
+    },
+    "/source/fija/20240201_MCONPUBVVSE1_23578.DAT": {
+        "total_lineas": 11181,
+        "linea_actual": 11181,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE4_29838.DAT": {
+        "total_lineas": 22747,
+        "linea_actual": 22747,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE3_29873.DAT": {
+        "total_lineas": 27166,
+        "linea_actual": 27166,
+        "estado": "Completado"
+    },
+    "/source/fija/20240202_MCONPUBVVSE1_23579.DAT": {
+        "total_lineas": 9074,
+        "linea_actual": 9074,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE3_29874.DAT": {
+        "total_lineas": 13563,
+        "linea_actual": 13563,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE4_29839.DAT": {
+        "total_lineas": 12000,
+        "linea_actual": 12000,
+        "estado": "Completado"
+    },
+    "/source/fija/20240202_MCONPUBVVSE1_23580.DAT": {
+        "total_lineas": 7889,
+        "linea_actual": 7889,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE3_29875.DAT": {
+        "total_lineas": 7087,
+        "linea_actual": 7087,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE4_29840.DAT": {
+        "total_lineas": 6337,
+        "linea_actual": 6337,
+        "estado": "Completado"
+    },
+    "/source/fija/20240202_MCONPUBVVSE1_23581.DAT": {
+        "total_lineas": 7393,
+        "linea_actual": 7393,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE3_29876.DAT": {
+        "total_lineas": 52470,
+        "linea_actual": 52470,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE4_29841.DAT": {
+        "total_lineas": 54345,
+        "linea_actual": 54345,
+        "estado": "Completado"
+    },
+    "/source/fija/20240202_MCONPUBVVSE1_23582.DAT": {
+        "total_lineas": 49337,
+        "linea_actual": 49337,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE4_29842.DAT": {
+        "total_lineas": 79778,
+        "linea_actual": 79778,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE3_29877.DAT": {
+        "total_lineas": 83395,
+        "linea_actual": 83395,
+        "estado": "Completado"
+    },
+    "/source/fija/20240202_MCONPUBVVSE1_23583.DAT": {
+        "total_lineas": 7001,
+        "linea_actual": 7001,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE4_29843.DAT": {
+        "total_lineas": 72078,
+        "linea_actual": 72078,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE3_29878.DAT": {
+        "total_lineas": 94124,
+        "linea_actual": 94124,
+        "estado": "Completado"
+    },
+    "/source/fija/20240202_MCONPUBVVSE1_23584.DAT": {
+        "total_lineas": 6816,
+        "linea_actual": 6816,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE3_29879.DAT": {
+        "total_lineas": 5150,
+        "linea_actual": 5150,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE4_29844.DAT": {
+        "total_lineas": 4751,
+        "linea_actual": 4751,
+        "estado": "Completado"
+    },
+    "/source/fija/20240202_MCONPUBVVSE1_23585.DAT": {
+        "total_lineas": 7159,
+        "linea_actual": 7159,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE4_29845.DAT": {
+        "total_lineas": 7837,
+        "linea_actual": 7837,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE3_29880.DAT": {
+        "total_lineas": 7800,
+        "linea_actual": 7800,
+        "estado": "Completado"
+    },
+    "/source/fija/20240202_MCONPUBVVSE1_23586.DAT": {
+        "total_lineas": 7008,
+        "linea_actual": 7008,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE4_29846.DAT": {
+        "total_lineas": 24023,
+        "linea_actual": 24023,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE3_29881.DAT": {
+        "total_lineas": 25636,
+        "linea_actual": 25636,
+        "estado": "Completado"
+    },
+    "/source/fija/20240202_MCONPUBVVSE1_23587.DAT": {
+        "total_lineas": 7717,
+        "linea_actual": 7717,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE4_29847.DAT": {
+        "total_lineas": 82952,
+        "linea_actual": 82952,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE3_29882.DAT": {
+        "total_lineas": 97315,
+        "linea_actual": 97315,
+        "estado": "Completado"
+    },
+    "/source/fija/20240202_MCONPUBVVSE1_23588.DAT": {
+        "total_lineas": 11703,
+        "linea_actual": 11703,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE3_29883.DAT": {
+        "total_lineas": 236303,
+        "linea_actual": 236303,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE4_29848.DAT": {
+        "total_lineas": 205487,
+        "linea_actual": 205487,
+        "estado": "Completado"
+    },
+    "/source/fija/20240202_MCONPUBVVSE1_23589.DAT": {
+        "total_lineas": 19521,
+        "linea_actual": 19521,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE4_29849.DAT": {
+        "total_lineas": 289105,
+        "linea_actual": 289105,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE3_29884.DAT": {
+        "total_lineas": 340522,
+        "linea_actual": 340522,
+        "estado": "Completado"
+    },
+    "/source/fija/20240202_MCONPUBVVSE1_23590.DAT": {
+        "total_lineas": 25017,
+        "linea_actual": 25017,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE3_29885.DAT": {
+        "total_lineas": 380455,
+        "linea_actual": 380455,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE4_29850.DAT": {
+        "total_lineas": 324931,
+        "linea_actual": 324931,
+        "estado": "Completado"
+    },
+    "/source/fija/20240202_MCONPUBVVSE1_23591.DAT": {
+        "total_lineas": 26882,
+        "linea_actual": 26882,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE3_29886.DAT": {
+        "total_lineas": 397925,
+        "linea_actual": 397925,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE4_29851.DAT": {
+        "total_lineas": 338823,
+        "linea_actual": 338823,
+        "estado": "Completado"
+    },
+    "/source/fija/20240202_MCONPUBVVSE1_23592.DAT": {
+        "total_lineas": 27183,
+        "linea_actual": 27183,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE4_29852.DAT": {
+        "total_lineas": 341160,
+        "linea_actual": 341160,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE3_29887.DAT": {
+        "total_lineas": 393746,
+        "linea_actual": 393746,
+        "estado": "Completado"
+    },
+    "/source/fija/20240202_MCONPUBVVSE1_23593.DAT": {
+        "total_lineas": 27622,
+        "linea_actual": 27622,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE3_29888.DAT": {
+        "total_lineas": 322755,
+        "linea_actual": 322755,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE4_29853.DAT": {
+        "total_lineas": 281520,
+        "linea_actual": 281520,
+        "estado": "Completado"
+    },
+    "/source/fija/20240202_MCONPUBVVSE1_23594.DAT": {
+        "total_lineas": 22859,
+        "linea_actual": 22859,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE3_29889.DAT": {
+        "total_lineas": 248321,
+        "linea_actual": 248321,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE4_29854.DAT": {
+        "total_lineas": 214869,
+        "linea_actual": 214869,
+        "estado": "Completado"
+    },
+    "/source/fija/20240202_MCONPUBVVSE1_23595.DAT": {
+        "total_lineas": 23214,
+        "linea_actual": 23214,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE4_29855.DAT": {
+        "total_lineas": 215381,
+        "linea_actual": 215381,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE3_29890.DAT": {
+        "total_lineas": 249885,
+        "linea_actual": 249885,
+        "estado": "Completado"
+    },
+    "/source/fija/20240202_MCONPUBVVSE1_23596.DAT": {
+        "total_lineas": 22315,
+        "linea_actual": 22315,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE4_29856.DAT": {
+        "total_lineas": 231039,
+        "linea_actual": 231039,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE3_29891.DAT": {
+        "total_lineas": 265905,
+        "linea_actual": 265905,
+        "estado": "Completado"
+    },
+    "/source/fija/20240202_MCONPUBVVSE1_23597.DAT": {
+        "total_lineas": 23244,
+        "linea_actual": 23244,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE4_29857.DAT": {
+        "total_lineas": 229047,
+        "linea_actual": 229047,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE3_29892.DAT": {
+        "total_lineas": 264792,
+        "linea_actual": 264792,
+        "estado": "Completado"
+    },
+    "/source/fija/20240202_MCONPUBVVSE1_23598.DAT": {
+        "total_lineas": 23392,
+        "linea_actual": 23392,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE3_29893.DAT": {
+        "total_lineas": 262299,
+        "linea_actual": 262299,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE4_29858.DAT": {
+        "total_lineas": 227668,
+        "linea_actual": 227668,
+        "estado": "Completado"
+    },
+    "/source/fija/20240202_MCONPUBVVSE1_23599.DAT": {
+        "total_lineas": 23305,
+        "linea_actual": 23305,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE3_29894.DAT": {
+        "total_lineas": 215377,
+        "linea_actual": 215377,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE4_29859.DAT": {
+        "total_lineas": 188923,
+        "linea_actual": 188923,
+        "estado": "Completado"
+    },
+    "/source/fija/20240202_MCONPUBVVSE1_23600.DAT": {
+        "total_lineas": 21917,
+        "linea_actual": 21917,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE3_29895.DAT": {
+        "total_lineas": 119497,
+        "linea_actual": 119497,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE4_29860.DAT": {
+        "total_lineas": 105047,
+        "linea_actual": 105047,
+        "estado": "Completado"
+    },
+    "/source/fija/20240202_MCONPUBVVSE1_23601.DAT": {
+        "total_lineas": 16763,
+        "linea_actual": 16763,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE3_29896.DAT": {
+        "total_lineas": 65391,
+        "linea_actual": 65391,
+        "estado": "Completado"
+    },
+    "/source/movil/20240202_MCONPUBVVSE4_29861.DAT": {
+        "total_lineas": 57921,
+        "linea_actual": 57921,
+        "estado": "Completado"
+    },
+    "/source/fija/20240202_MCONPUBVVSE1_23602.DAT": {
+        "total_lineas": 12575,
+        "linea_actual": 12575,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE3_29897.DAT": {
+        "total_lineas": 39263,
+        "linea_actual": 39263,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE4_29862.DAT": {
+        "total_lineas": 35888,
+        "linea_actual": 35888,
+        "estado": "Completado"
+    },
+    "/source/fija/20240203_MCONPUBVVSE1_23603.DAT": {
+        "total_lineas": 10100,
+        "linea_actual": 10100,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE4_29863.DAT": {
+        "total_lineas": 23077,
+        "linea_actual": 23077,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE3_29898.DAT": {
+        "total_lineas": 24735,
+        "linea_actual": 24735,
+        "estado": "Completado"
+    },
+    "/source/fija/20240203_MCONPUBVVSE1_23604.DAT": {
+        "total_lineas": 9484,
+        "linea_actual": 9484,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE4_29864.DAT": {
+        "total_lineas": 14093,
+        "linea_actual": 14093,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE3_29899.DAT": {
+        "total_lineas": 15692,
+        "linea_actual": 15692,
+        "estado": "Completado"
+    },
+    "/source/fija/20240203_MCONPUBVVSE1_23605.DAT": {
+        "total_lineas": 9344,
+        "linea_actual": 9344,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE3_29900.DAT": {
+        "total_lineas": 60147,
+        "linea_actual": 60147,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE4_29865.DAT": {
+        "total_lineas": 60933,
+        "linea_actual": 60933,
+        "estado": "Completado"
+    },
+    "/source/fija/20240203_MCONPUBVVSE1_23606.DAT": {
+        "total_lineas": 49478,
+        "linea_actual": 49478,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE4_29866.DAT": {
+        "total_lineas": 89363,
+        "linea_actual": 89363,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE3_29901.DAT": {
+        "total_lineas": 96481,
+        "linea_actual": 96481,
+        "estado": "Completado"
+    },
+    "/source/fija/20240203_MCONPUBVVSE1_23607.DAT": {
+        "total_lineas": 9532,
+        "linea_actual": 9532,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE4_29867.DAT": {
+        "total_lineas": 69916,
+        "linea_actual": 69916,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE3_29902.DAT": {
+        "total_lineas": 89772,
+        "linea_actual": 89772,
+        "estado": "Completado"
+    },
+    "/source/fija/20240203_MCONPUBVVSE1_23608.DAT": {
+        "total_lineas": 8949,
+        "linea_actual": 8949,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE3_29903.DAT": {
+        "total_lineas": 7220,
+        "linea_actual": 7220,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE4_29868.DAT": {
+        "total_lineas": 6824,
+        "linea_actual": 6824,
+        "estado": "Completado"
+    },
+    "/source/fija/20240203_MCONPUBVVSE1_23609.DAT": {
+        "total_lineas": 7838,
+        "linea_actual": 7838,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE3_29904.DAT": {
+        "total_lineas": 7397,
+        "linea_actual": 7397,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE4_29869.DAT": {
+        "total_lineas": 6655,
+        "linea_actual": 6655,
+        "estado": "Completado"
+    },
+    "/source/fija/20240203_MCONPUBVVSE1_23610.DAT": {
+        "total_lineas": 8238,
+        "linea_actual": 8238,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE3_29905.DAT": {
+        "total_lineas": 10026,
+        "linea_actual": 10026,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE4_29870.DAT": {
+        "total_lineas": 8536,
+        "linea_actual": 8536,
+        "estado": "Completado"
+    },
+    "/source/fija/20240203_MCONPUBVVSE1_23611.DAT": {
+        "total_lineas": 8735,
+        "linea_actual": 8735,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE3_29906.DAT": {
+        "total_lineas": 26233,
+        "linea_actual": 26233,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE4_29871.DAT": {
+        "total_lineas": 21318,
+        "linea_actual": 21318,
+        "estado": "Completado"
+    },
+    "/source/fija/20240203_MCONPUBVVSE1_23612.DAT": {
+        "total_lineas": 8905,
+        "linea_actual": 8905,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE3_29907.DAT": {
+        "total_lineas": 71046,
+        "linea_actual": 71046,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE4_29872.DAT": {
+        "total_lineas": 59768,
+        "linea_actual": 59768,
+        "estado": "Completado"
+    },
+    "/source/fija/20240203_MCONPUBVVSE1_23613.DAT": {
+        "total_lineas": 12563,
+        "linea_actual": 12563,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE3_29908.DAT": {
+        "total_lineas": 124408,
+        "linea_actual": 124408,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE4_29873.DAT": {
+        "total_lineas": 104295,
+        "linea_actual": 104295,
+        "estado": "Completado"
+    },
+    "/source/fija/20240203_MCONPUBVVSE1_23614.DAT": {
+        "total_lineas": 16257,
+        "linea_actual": 16257,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE3_29909.DAT": {
+        "total_lineas": 160072,
+        "linea_actual": 160072,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE4_29874.DAT": {
+        "total_lineas": 134724,
+        "linea_actual": 134724,
+        "estado": "Completado"
+    },
+    "/source/fija/20240203_MCONPUBVVSE1_23615.DAT": {
+        "total_lineas": 18530,
+        "linea_actual": 18530,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE3_29910.DAT": {
+        "total_lineas": 177330,
+        "linea_actual": 177330,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE4_29875.DAT": {
+        "total_lineas": 151395,
+        "linea_actual": 151395,
+        "estado": "Completado"
+    },
+    "/source/fija/20240203_MCONPUBVVSE1_23616.DAT": {
+        "total_lineas": 19264,
+        "linea_actual": 19264,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE3_29911.DAT": {
+        "total_lineas": 172722,
+        "linea_actual": 172722,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE4_29876.DAT": {
+        "total_lineas": 147535,
+        "linea_actual": 147535,
+        "estado": "Completado"
+    },
+    "/source/fija/20240203_MCONPUBVVSE1_23617.DAT": {
+        "total_lineas": 18602,
+        "linea_actual": 18602,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE4_29877.DAT": {
+        "total_lineas": 108120,
+        "linea_actual": 108120,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE3_29912.DAT": {
+        "total_lineas": 127353,
+        "linea_actual": 127353,
+        "estado": "Completado"
+    },
+    "/source/fija/20240203_MCONPUBVVSE1_23618.DAT": {
+        "total_lineas": 15944,
+        "linea_actual": 15944,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE3_29913.DAT": {
+        "total_lineas": 85466,
+        "linea_actual": 85466,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE4_29878.DAT": {
+        "total_lineas": 76312,
+        "linea_actual": 76312,
+        "estado": "Completado"
+    },
+    "/source/fija/20240203_MCONPUBVVSE1_23619.DAT": {
+        "total_lineas": 13388,
+        "linea_actual": 13388,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE4_29879.DAT": {
+        "total_lineas": 73354,
+        "linea_actual": 73354,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE3_29914.DAT": {
+        "total_lineas": 84913,
+        "linea_actual": 84913,
+        "estado": "Completado"
+    },
+    "/source/fija/20240203_MCONPUBVVSE1_23620.DAT": {
+        "total_lineas": 13581,
+        "linea_actual": 13581,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE4_29880.DAT": {
+        "total_lineas": 88357,
+        "linea_actual": 88357,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE3_29915.DAT": {
+        "total_lineas": 101881,
+        "linea_actual": 101881,
+        "estado": "Completado"
+    },
+    "/source/fija/20240203_MCONPUBVVSE1_23621.DAT": {
+        "total_lineas": 13887,
+        "linea_actual": 13887,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE4_29881.DAT": {
+        "total_lineas": 105493,
+        "linea_actual": 105493,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE3_29916.DAT": {
+        "total_lineas": 122300,
+        "linea_actual": 122300,
+        "estado": "Completado"
+    },
+    "/source/fija/20240203_MCONPUBVVSE1_23622.DAT": {
+        "total_lineas": 13079,
+        "linea_actual": 13079,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE4_29882.DAT": {
+        "total_lineas": 112651,
+        "linea_actual": 112651,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE3_29917.DAT": {
+        "total_lineas": 128950,
+        "linea_actual": 128950,
+        "estado": "Completado"
+    },
+    "/source/fija/20240203_MCONPUBVVSE1_23623.DAT": {
+        "total_lineas": 13596,
+        "linea_actual": 13596,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE3_29918.DAT": {
+        "total_lineas": 121551,
+        "linea_actual": 121551,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE4_29883.DAT": {
+        "total_lineas": 106632,
+        "linea_actual": 106632,
+        "estado": "Completado"
+    },
+    "/source/fija/20240203_MCONPUBVVSE1_23624.DAT": {
+        "total_lineas": 14183,
+        "linea_actual": 14183,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE3_29919.DAT": {
+        "total_lineas": 95371,
+        "linea_actual": 95371,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE4_29884.DAT": {
+        "total_lineas": 84524,
+        "linea_actual": 84524,
+        "estado": "Completado"
+    },
+    "/source/fija/20240203_MCONPUBVVSE1_23625.DAT": {
+        "total_lineas": 14079,
+        "linea_actual": 14079,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE4_29885.DAT": {
+        "total_lineas": 53940,
+        "linea_actual": 53940,
+        "estado": "Completado"
+    },
+    "/source/movil/20240203_MCONPUBVVSE3_29920.DAT": {
+        "total_lineas": 60300,
+        "linea_actual": 60300,
+        "estado": "Completado"
+    },
+    "/source/fija/20240203_MCONPUBVVSE1_23626.DAT": {
+        "total_lineas": 11501,
+        "linea_actual": 11501,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE3_29921.DAT": {
+        "total_lineas": 40752,
+        "linea_actual": 40752,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE4_29886.DAT": {
+        "total_lineas": 36297,
+        "linea_actual": 36297,
+        "estado": "Completado"
+    },
+    "/source/fija/20240204_MCONPUBVVSE1_23627.DAT": {
+        "total_lineas": 11491,
+        "linea_actual": 11491,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE4_29887.DAT": {
+        "total_lineas": 27066,
+        "linea_actual": 27066,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE3_29922.DAT": {
+        "total_lineas": 29299,
+        "linea_actual": 29299,
+        "estado": "Completado"
+    },
+    "/source/fija/20240204_MCONPUBVVSE1_23628.DAT": {
+        "total_lineas": 10203,
+        "linea_actual": 10203,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE3_29923.DAT": {
+        "total_lineas": 18784,
+        "linea_actual": 18784,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE4_29888.DAT": {
+        "total_lineas": 17396,
+        "linea_actual": 17396,
+        "estado": "Completado"
+    },
+    "/source/fija/20240204_MCONPUBVVSE1_23629.DAT": {
+        "total_lineas": 10638,
+        "linea_actual": 10638,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE3_29924.DAT": {
+        "total_lineas": 84963,
+        "linea_actual": 84963,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE4_29889.DAT": {
+        "total_lineas": 84783,
+        "linea_actual": 84783,
+        "estado": "Completado"
+    },
+    "/source/fija/20240204_MCONPUBVVSE1_23630.DAT": {
+        "total_lineas": 26541,
+        "linea_actual": 26541,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE3_29925.DAT": {
+        "total_lineas": 111581,
+        "linea_actual": 111581,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE4_29890.DAT": {
+        "total_lineas": 101526,
+        "linea_actual": 101526,
+        "estado": "Completado"
+    },
+    "/source/fija/20240204_MCONPUBVVSE1_23631.DAT": {
+        "total_lineas": 8245,
+        "linea_actual": 8245,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE3_29926.DAT": {
+        "total_lineas": 61921,
+        "linea_actual": 61921,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE4_29891.DAT": {
+        "total_lineas": 47044,
+        "linea_actual": 47044,
+        "estado": "Completado"
+    },
+    "/source/fija/20240204_MCONPUBVVSE1_23632.DAT": {
+        "total_lineas": 7582,
+        "linea_actual": 7582,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE3_29927.DAT": {
+        "total_lineas": 8468,
+        "linea_actual": 8468,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE4_29892.DAT": {
+        "total_lineas": 8311,
+        "linea_actual": 8311,
+        "estado": "Completado"
+    },
+    "/source/fija/20240204_MCONPUBVVSE1_23633.DAT": {
+        "total_lineas": 6568,
+        "linea_actual": 6568,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE3_29928.DAT": {
+        "total_lineas": 7935,
+        "linea_actual": 7935,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE4_29893.DAT": {
+        "total_lineas": 7429,
+        "linea_actual": 7429,
+        "estado": "Completado"
+    },
+    "/source/fija/20240204_MCONPUBVVSE1_23634.DAT": {
+        "total_lineas": 6442,
+        "linea_actual": 6442,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE4_29894.DAT": {
+        "total_lineas": 6616,
+        "linea_actual": 6616,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE3_29929.DAT": {
+        "total_lineas": 7253,
+        "linea_actual": 7253,
+        "estado": "Completado"
+    },
+    "/source/fija/20240204_MCONPUBVVSE1_23635.DAT": {
+        "total_lineas": 6221,
+        "linea_actual": 6221,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE3_29930.DAT": {
+        "total_lineas": 15494,
+        "linea_actual": 15494,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE4_29895.DAT": {
+        "total_lineas": 12819,
+        "linea_actual": 12819,
+        "estado": "Completado"
+    },
+    "/source/fija/20240204_MCONPUBVVSE1_23636.DAT": {
+        "total_lineas": 7622,
+        "linea_actual": 7622,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE3_29931.DAT": {
+        "total_lineas": 38123,
+        "linea_actual": 38123,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE4_29896.DAT": {
+        "total_lineas": 33061,
+        "linea_actual": 33061,
+        "estado": "Completado"
+    },
+    "/source/fija/20240204_MCONPUBVVSE1_23637.DAT": {
+        "total_lineas": 8817,
+        "linea_actual": 8817,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE3_29932.DAT": {
+        "total_lineas": 74488,
+        "linea_actual": 74488,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE4_29897.DAT": {
+        "total_lineas": 64585,
+        "linea_actual": 64585,
+        "estado": "Completado"
+    },
+    "/source/fija/20240204_MCONPUBVVSE1_23638.DAT": {
+        "total_lineas": 12629,
+        "linea_actual": 12629,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE3_29933.DAT": {
+        "total_lineas": 109544,
+        "linea_actual": 109544,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE4_29898.DAT": {
+        "total_lineas": 92134,
+        "linea_actual": 92134,
+        "estado": "Completado"
+    },
+    "/source/fija/20240204_MCONPUBVVSE1_23639.DAT": {
+        "total_lineas": 15840,
+        "linea_actual": 15840,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE4_29899.DAT": {
+        "total_lineas": 108847,
+        "linea_actual": 108847,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE3_29934.DAT": {
+        "total_lineas": 127080,
+        "linea_actual": 127080,
+        "estado": "Completado"
+    },
+    "/source/fija/20240204_MCONPUBVVSE1_23640.DAT": {
+        "total_lineas": 17140,
+        "linea_actual": 17140,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE3_29935.DAT": {
+        "total_lineas": 123510,
+        "linea_actual": 123510,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE4_29900.DAT": {
+        "total_lineas": 107947,
+        "linea_actual": 107947,
+        "estado": "Completado"
+    },
+    "/source/fija/20240204_MCONPUBVVSE1_23641.DAT": {
+        "total_lineas": 16259,
+        "linea_actual": 16259,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE3_29936.DAT": {
+        "total_lineas": 89779,
+        "linea_actual": 89779,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE4_29901.DAT": {
+        "total_lineas": 76890,
+        "linea_actual": 76890,
+        "estado": "Completado"
+    },
+    "/source/fija/20240204_MCONPUBVVSE1_23642.DAT": {
+        "total_lineas": 14952,
+        "linea_actual": 14952,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE3_29937.DAT": {
+        "total_lineas": 61221,
+        "linea_actual": 61221,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE4_29902.DAT": {
+        "total_lineas": 52949,
+        "linea_actual": 52949,
+        "estado": "Completado"
+    },
+    "/source/fija/20240204_MCONPUBVVSE1_23643.DAT": {
+        "total_lineas": 12344,
+        "linea_actual": 12344,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE3_29938.DAT": {
+        "total_lineas": 61831,
+        "linea_actual": 61831,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE4_29903.DAT": {
+        "total_lineas": 53847,
+        "linea_actual": 53847,
+        "estado": "Completado"
+    },
+    "/source/fija/20240204_MCONPUBVVSE1_23644.DAT": {
+        "total_lineas": 11679,
+        "linea_actual": 11679,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE3_29939.DAT": {
+        "total_lineas": 76887,
+        "linea_actual": 76887,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE4_29904.DAT": {
+        "total_lineas": 66357,
+        "linea_actual": 66357,
+        "estado": "Completado"
+    },
+    "/source/fija/20240204_MCONPUBVVSE1_23645.DAT": {
+        "total_lineas": 12242,
+        "linea_actual": 12242,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE4_29905.DAT": {
+        "total_lineas": 82629,
+        "linea_actual": 82629,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE3_29940.DAT": {
+        "total_lineas": 96532,
+        "linea_actual": 96532,
+        "estado": "Completado"
+    },
+    "/source/fija/20240204_MCONPUBVVSE1_23646.DAT": {
+        "total_lineas": 13693,
+        "linea_actual": 13693,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE3_29941.DAT": {
+        "total_lineas": 105418,
+        "linea_actual": 105418,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE4_29906.DAT": {
+        "total_lineas": 90145,
+        "linea_actual": 90145,
+        "estado": "Completado"
+    },
+    "/source/fija/20240204_MCONPUBVVSE1_23647.DAT": {
+        "total_lineas": 14639,
+        "linea_actual": 14639,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE3_29942.DAT": {
+        "total_lineas": 97096,
+        "linea_actual": 97096,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE4_29907.DAT": {
+        "total_lineas": 84548,
+        "linea_actual": 84548,
+        "estado": "Completado"
+    },
+    "/source/fija/20240204_MCONPUBVVSE1_23648.DAT": {
+        "total_lineas": 13522,
+        "linea_actual": 13522,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE3_29943.DAT": {
+        "total_lineas": 64981,
+        "linea_actual": 64981,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE4_29908.DAT": {
+        "total_lineas": 56307,
+        "linea_actual": 56307,
+        "estado": "Completado"
+    },
+    "/source/fija/20240204_MCONPUBVVSE1_23649.DAT": {
+        "total_lineas": 11629,
+        "linea_actual": 11629,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE3_29944.DAT": {
+        "total_lineas": 35010,
+        "linea_actual": 35010,
+        "estado": "Completado"
+    },
+    "/source/movil/20240204_MCONPUBVVSE4_29909.DAT": {
+        "total_lineas": 30464,
+        "linea_actual": 30464,
+        "estado": "Completado"
+    },
+    "/source/fija/20240204_MCONPUBVVSE1_23650.DAT": {
+        "total_lineas": 8410,
+        "linea_actual": 8410,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE4_29910.DAT": {
+        "total_lineas": 18064,
+        "linea_actual": 18064,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE3_29945.DAT": {
+        "total_lineas": 20388,
+        "linea_actual": 20388,
+        "estado": "Completado"
+    },
+    "/source/fija/20240205_MCONPUBVVSE1_23651.DAT": {
+        "total_lineas": 7092,
+        "linea_actual": 7092,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE4_29911.DAT": {
+        "total_lineas": 8585,
+        "linea_actual": 8585,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE3_29946.DAT": {
+        "total_lineas": 9271,
+        "linea_actual": 9271,
+        "estado": "Completado"
+    },
+    "/source/fija/20240205_MCONPUBVVSE1_23652.DAT": {
+        "total_lineas": 6371,
+        "linea_actual": 6371,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE4_29912.DAT": {
+        "total_lineas": 4407,
+        "linea_actual": 4407,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE3_29947.DAT": {
+        "total_lineas": 4470,
+        "linea_actual": 4470,
+        "estado": "Completado"
+    },
+    "/source/fija/20240205_MCONPUBVVSE1_23653.DAT": {
+        "total_lineas": 6524,
+        "linea_actual": 6524,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE3_29948.DAT": {
+        "total_lineas": 81084,
+        "linea_actual": 81084,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE4_29913.DAT": {
+        "total_lineas": 81301,
+        "linea_actual": 81301,
+        "estado": "Completado"
+    },
+    "/source/fija/20240205_MCONPUBVVSE1_23654.DAT": {
+        "total_lineas": 19107,
+        "linea_actual": 19107,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE3_29949.DAT": {
+        "total_lineas": 109708,
+        "linea_actual": 109708,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE4_29914.DAT": {
+        "total_lineas": 100873,
+        "linea_actual": 100873,
+        "estado": "Completado"
+    },
+    "/source/fija/20240205_MCONPUBVVSE1_23655.DAT": {
+        "total_lineas": 7095,
+        "linea_actual": 7095,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE4_29915.DAT": {
+        "total_lineas": 35108,
+        "linea_actual": 35108,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE3_29950.DAT": {
+        "total_lineas": 50177,
+        "linea_actual": 50177,
+        "estado": "Completado"
+    },
+    "/source/fija/20240205_MCONPUBVVSE1_23656.DAT": {
+        "total_lineas": 6309,
+        "linea_actual": 6309,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE4_29916.DAT": {
+        "total_lineas": 3104,
+        "linea_actual": 3104,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE3_29951.DAT": {
+        "total_lineas": 3229,
+        "linea_actual": 3229,
+        "estado": "Completado"
+    },
+    "/source/fija/20240205_MCONPUBVVSE1_23657.DAT": {
+        "total_lineas": 6267,
+        "linea_actual": 6267,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE4_29917.DAT": {
+        "total_lineas": 7095,
+        "linea_actual": 7095,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE3_29952.DAT": {
+        "total_lineas": 6920,
+        "linea_actual": 6920,
+        "estado": "Completado"
+    },
+    "/source/fija/20240205_MCONPUBVVSE1_23658.DAT": {
+        "total_lineas": 6725,
+        "linea_actual": 6725,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE4_29918.DAT": {
+        "total_lineas": 23818,
+        "linea_actual": 23818,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE3_29953.DAT": {
+        "total_lineas": 26352,
+        "linea_actual": 26352,
+        "estado": "Completado"
+    },
+    "/source/fija/20240205_MCONPUBVVSE1_23659.DAT": {
+        "total_lineas": 7775,
+        "linea_actual": 7775,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE3_29954.DAT": {
+        "total_lineas": 97862,
+        "linea_actual": 97862,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE4_29919.DAT": {
+        "total_lineas": 84733,
+        "linea_actual": 84733,
+        "estado": "Completado"
+    },
+    "/source/fija/20240205_MCONPUBVVSE1_23660.DAT": {
+        "total_lineas": 11970,
+        "linea_actual": 11970,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE3_29955.DAT": {
+        "total_lineas": 235837,
+        "linea_actual": 235837,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE4_29920.DAT": {
+        "total_lineas": 203951,
+        "linea_actual": 203951,
+        "estado": "Completado"
+    },
+    "/source/fija/20240205_MCONPUBVVSE1_23661.DAT": {
+        "total_lineas": 24728,
+        "linea_actual": 24728,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE4_29921.DAT": {
+        "total_lineas": 289132,
+        "linea_actual": 289132,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE3_29956.DAT": {
+        "total_lineas": 339955,
+        "linea_actual": 339955,
+        "estado": "Completado"
+    },
+    "/source/fija/20240205_MCONPUBVVSE1_23662.DAT": {
+        "total_lineas": 31644,
+        "linea_actual": 31644,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE4_29922.DAT": {
+        "total_lineas": 321112,
+        "linea_actual": 321112,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE3_29957.DAT": {
+        "total_lineas": 377135,
+        "linea_actual": 377135,
+        "estado": "Completado"
+    },
+    "/source/fija/20240205_MCONPUBVVSE1_23663.DAT": {
+        "total_lineas": 31810,
+        "linea_actual": 31810,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE4_29923.DAT": {
+        "total_lineas": 339482,
+        "linea_actual": 339482,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE3_29958.DAT": {
+        "total_lineas": 396619,
+        "linea_actual": 396619,
+        "estado": "Completado"
+    },
+    "/source/fija/20240205_MCONPUBVVSE1_23664.DAT": {
+        "total_lineas": 30091,
+        "linea_actual": 30091,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE3_29959.DAT": {
+        "total_lineas": 378454,
+        "linea_actual": 378454,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE4_29924.DAT": {
+        "total_lineas": 328339,
+        "linea_actual": 328339,
+        "estado": "Completado"
+    },
+    "/source/fija/20240205_MCONPUBVVSE1_23665.DAT": {
+        "total_lineas": 30425,
+        "linea_actual": 30425,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE4_29925.DAT": {
+        "total_lineas": 257146,
+        "linea_actual": 257146,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE3_29960.DAT": {
+        "total_lineas": 299313,
+        "linea_actual": 299313,
+        "estado": "Completado"
+    },
+    "/source/fija/20240205_MCONPUBVVSE1_23666.DAT": {
+        "total_lineas": 26500,
+        "linea_actual": 26500,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE4_29926.DAT": {
+        "total_lineas": 219456,
+        "linea_actual": 219456,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE3_29961.DAT": {
+        "total_lineas": 251811,
+        "linea_actual": 251811,
+        "estado": "Completado"
+    },
+    "/source/fija/20240205_MCONPUBVVSE1_23667.DAT": {
+        "total_lineas": 24300,
+        "linea_actual": 24300,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE3_29962.DAT": {
+        "total_lineas": 283676,
+        "linea_actual": 283676,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE4_29927.DAT": {
+        "total_lineas": 245239,
+        "linea_actual": 245239,
+        "estado": "Completado"
+    },
+    "/source/fija/20240205_MCONPUBVVSE1_23668.DAT": {
+        "total_lineas": 25503,
+        "linea_actual": 25503,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE3_29963.DAT": {
+        "total_lineas": 303806,
+        "linea_actual": 303806,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE4_29928.DAT": {
+        "total_lineas": 260617,
+        "linea_actual": 260617,
+        "estado": "Completado"
+    },
+    "/source/fija/20240205_MCONPUBVVSE1_23669.DAT": {
+        "total_lineas": 28501,
+        "linea_actual": 28501,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE3_29964.DAT": {
+        "total_lineas": 290200,
+        "linea_actual": 290200,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE4_29929.DAT": {
+        "total_lineas": 248142,
+        "linea_actual": 248142,
+        "estado": "Completado"
+    },
+    "/source/fija/20240205_MCONPUBVVSE1_23670.DAT": {
+        "total_lineas": 28066,
+        "linea_actual": 28066,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE4_29930.DAT": {
+        "total_lineas": 226218,
+        "linea_actual": 226218,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE3_29965.DAT": {
+        "total_lineas": 265298,
+        "linea_actual": 265298,
+        "estado": "Completado"
+    },
+    "/source/fija/20240205_MCONPUBVVSE1_23671.DAT": {
+        "total_lineas": 25403,
+        "linea_actual": 25403,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE4_29931.DAT": {
+        "total_lineas": 177041,
+        "linea_actual": 177041,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE3_29966.DAT": {
+        "total_lineas": 204642,
+        "linea_actual": 204642,
+        "estado": "Completado"
+    },
+    "/source/fija/20240205_MCONPUBVVSE1_23672.DAT": {
+        "total_lineas": 20690,
+        "linea_actual": 20690,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE3_29967.DAT": {
+        "total_lineas": 98610,
+        "linea_actual": 98610,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE4_29932.DAT": {
+        "total_lineas": 84347,
+        "linea_actual": 84347,
+        "estado": "Completado"
+    },
+    "/source/fija/20240205_MCONPUBVVSE1_23673.DAT": {
+        "total_lineas": 16172,
+        "linea_actual": 16172,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE4_29933.DAT": {
+        "total_lineas": 36292,
+        "linea_actual": 36292,
+        "estado": "Completado"
+    },
+    "/source/movil/20240205_MCONPUBVVSE3_29968.DAT": {
+        "total_lineas": 43796,
+        "linea_actual": 43796,
+        "estado": "Completado"
+    },
+    "/source/fija/20240205_MCONPUBVVSE1_23674.DAT": {
+        "total_lineas": 11506,
+        "linea_actual": 11506,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE4_29934.DAT": {
+        "total_lineas": 17664,
+        "linea_actual": 17664,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE3_29969.DAT": {
+        "total_lineas": 20849,
+        "linea_actual": 20849,
+        "estado": "Completado"
+    },
+    "/source/fija/20240206_MCONPUBVVSE1_23675.DAT": {
+        "total_lineas": 10439,
+        "linea_actual": 10439,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE4_29935.DAT": {
+        "total_lineas": 8981,
+        "linea_actual": 8981,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE3_29970.DAT": {
+        "total_lineas": 8445,
+        "linea_actual": 8445,
+        "estado": "Completado"
+    },
+    "/source/fija/20240206_MCONPUBVVSE1_23676.DAT": {
+        "total_lineas": 8961,
+        "linea_actual": 8961,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE3_29971.DAT": {
+        "total_lineas": 4211,
+        "linea_actual": 4211,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE4_29936.DAT": {
+        "total_lineas": 4225,
+        "linea_actual": 4225,
+        "estado": "Completado"
+    },
+    "/source/fija/20240206_MCONPUBVVSE1_23677.DAT": {
+        "total_lineas": 7523,
+        "linea_actual": 7523,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE3_29972.DAT": {
+        "total_lineas": 59386,
+        "linea_actual": 59386,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE4_29937.DAT": {
+        "total_lineas": 58959,
+        "linea_actual": 58959,
+        "estado": "Completado"
+    },
+    "/source/fija/20240206_MCONPUBVVSE1_23678.DAT": {
+        "total_lineas": 54366,
+        "linea_actual": 54366,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE3_29973.DAT": {
+        "total_lineas": 68576,
+        "linea_actual": 68576,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE4_29938.DAT": {
+        "total_lineas": 60199,
+        "linea_actual": 60199,
+        "estado": "Completado"
+    },
+    "/source/fija/20240206_MCONPUBVVSE1_23679.DAT": {
+        "total_lineas": 7847,
+        "linea_actual": 7847,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE4_29939.DAT": {
+        "total_lineas": 16869,
+        "linea_actual": 16869,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE3_29974.DAT": {
+        "total_lineas": 30894,
+        "linea_actual": 30894,
+        "estado": "Completado"
+    },
+    "/source/fija/20240206_MCONPUBVVSE1_23680.DAT": {
+        "total_lineas": 7896,
+        "linea_actual": 7896,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE4_29940.DAT": {
+        "total_lineas": 3353,
+        "linea_actual": 3353,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE3_29975.DAT": {
+        "total_lineas": 2644,
+        "linea_actual": 2644,
+        "estado": "Completado"
+    },
+    "/source/fija/20240206_MCONPUBVVSE1_23681.DAT": {
+        "total_lineas": 6463,
+        "linea_actual": 6463,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE4_29941.DAT": {
+        "total_lineas": 6818,
+        "linea_actual": 6818,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE3_29976.DAT": {
+        "total_lineas": 7029,
+        "linea_actual": 7029,
+        "estado": "Completado"
+    },
+    "/source/fija/20240206_MCONPUBVVSE1_23682.DAT": {
+        "total_lineas": 6529,
+        "linea_actual": 6529,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE3_29977.DAT": {
+        "total_lineas": 27151,
+        "linea_actual": 27151,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE4_29942.DAT": {
+        "total_lineas": 24783,
+        "linea_actual": 24783,
+        "estado": "Completado"
+    },
+    "/source/fija/20240206_MCONPUBVVSE1_23683.DAT": {
+        "total_lineas": 7006,
+        "linea_actual": 7006,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE3_29978.DAT": {
+        "total_lineas": 102412,
+        "linea_actual": 102412,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE4_29943.DAT": {
+        "total_lineas": 86342,
+        "linea_actual": 86342,
+        "estado": "Completado"
+    },
+    "/source/fija/20240206_MCONPUBVVSE1_23684.DAT": {
+        "total_lineas": 11026,
+        "linea_actual": 11026,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE3_29979.DAT": {
+        "total_lineas": 241777,
+        "linea_actual": 241777,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE4_29944.DAT": {
+        "total_lineas": 206771,
+        "linea_actual": 206771,
+        "estado": "Completado"
+    },
+    "/source/fija/20240206_MCONPUBVVSE1_23685.DAT": {
+        "total_lineas": 21032,
+        "linea_actual": 21032,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE4_29945.DAT": {
+        "total_lineas": 293738,
+        "linea_actual": 293738,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE3_29980.DAT": {
+        "total_lineas": 341588,
+        "linea_actual": 341588,
+        "estado": "Completado"
+    },
+    "/source/fija/20240206_MCONPUBVVSE1_23686.DAT": {
+        "total_lineas": 26502,
+        "linea_actual": 26502,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE4_29946.DAT": {
+        "total_lineas": 318618,
+        "linea_actual": 318618,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE3_29981.DAT": {
+        "total_lineas": 371167,
+        "linea_actual": 371167,
+        "estado": "Completado"
+    },
+    "/source/fija/20240206_MCONPUBVVSE1_23687.DAT": {
+        "total_lineas": 26757,
+        "linea_actual": 26757,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE3_29982.DAT": {
+        "total_lineas": 385237,
+        "linea_actual": 385237,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE4_29947.DAT": {
+        "total_lineas": 330286,
+        "linea_actual": 330286,
+        "estado": "Completado"
+    },
+    "/source/fija/20240206_MCONPUBVVSE1_23688.DAT": {
+        "total_lineas": 27496,
+        "linea_actual": 27496,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE4_29948.DAT": {
+        "total_lineas": 322908,
+        "linea_actual": 322908,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE3_29983.DAT": {
+        "total_lineas": 377229,
+        "linea_actual": 377229,
+        "estado": "Completado"
+    },
+    "/source/fija/20240206_MCONPUBVVSE1_23689.DAT": {
+        "total_lineas": 29968,
+        "linea_actual": 29968,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE3_29984.DAT": {
+        "total_lineas": 301728,
+        "linea_actual": 301728,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE4_29949.DAT": {
+        "total_lineas": 259632,
+        "linea_actual": 259632,
+        "estado": "Completado"
+    },
+    "/source/fija/20240206_MCONPUBVVSE1_23690.DAT": {
+        "total_lineas": 24456,
+        "linea_actual": 24456,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE3_29985.DAT": {
+        "total_lineas": 258386,
+        "linea_actual": 258386,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE4_29950.DAT": {
+        "total_lineas": 220480,
+        "linea_actual": 220480,
+        "estado": "Completado"
+    },
+    "/source/fija/20240206_MCONPUBVVSE1_23691.DAT": {
+        "total_lineas": 22838,
+        "linea_actual": 22838,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE3_29986.DAT": {
+        "total_lineas": 284727,
+        "linea_actual": 284727,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE4_29951.DAT": {
+        "total_lineas": 249187,
+        "linea_actual": 249187,
+        "estado": "Completado"
+    },
+    "/source/fija/20240206_MCONPUBVVSE1_23692.DAT": {
+        "total_lineas": 24565,
+        "linea_actual": 24565,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE3_29987.DAT": {
+        "total_lineas": 307251,
+        "linea_actual": 307251,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE4_29952.DAT": {
+        "total_lineas": 262301,
+        "linea_actual": 262301,
+        "estado": "Completado"
+    },
+    "/source/fija/20240206_MCONPUBVVSE1_23693.DAT": {
+        "total_lineas": 26143,
+        "linea_actual": 26143,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE4_29953.DAT": {
+        "total_lineas": 250919,
+        "linea_actual": 250919,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE3_29988.DAT": {
+        "total_lineas": 295091,
+        "linea_actual": 295091,
+        "estado": "Completado"
+    },
+    "/source/fija/20240206_MCONPUBVVSE1_23694.DAT": {
+        "total_lineas": 26224,
+        "linea_actual": 26224,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE4_29954.DAT": {
+        "total_lineas": 228964,
+        "linea_actual": 228964,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE3_29989.DAT": {
+        "total_lineas": 268258,
+        "linea_actual": 268258,
+        "estado": "Completado"
+    },
+    "/source/fija/20240206_MCONPUBVVSE1_23695.DAT": {
+        "total_lineas": 23116,
+        "linea_actual": 23116,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE3_29990.DAT": {
+        "total_lineas": 205863,
+        "linea_actual": 205863,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE4_29955.DAT": {
+        "total_lineas": 175602,
+        "linea_actual": 175602,
+        "estado": "Completado"
+    },
+    "/source/fija/20240206_MCONPUBVVSE1_23696.DAT": {
+        "total_lineas": 20781,
+        "linea_actual": 20781,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE3_29991.DAT": {
+        "total_lineas": 103107,
+        "linea_actual": 103107,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE4_29956.DAT": {
+        "total_lineas": 86976,
+        "linea_actual": 86976,
+        "estado": "Completado"
+    },
+    "/source/fija/20240206_MCONPUBVVSE1_23697.DAT": {
+        "total_lineas": 15797,
+        "linea_actual": 15797,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE4_29957.DAT": {
+        "total_lineas": 40604,
+        "linea_actual": 40604,
+        "estado": "Completado"
+    },
+    "/source/movil/20240206_MCONPUBVVSE3_29992.DAT": {
+        "total_lineas": 46909,
+        "linea_actual": 46909,
+        "estado": "Completado"
+    },
+    "/source/fija/20240206_MCONPUBVVSE1_23698.DAT": {
+        "total_lineas": 10205,
+        "linea_actual": 10205,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE3_29993.DAT": {
+        "total_lineas": 21229,
+        "linea_actual": 21229,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE4_29958.DAT": {
+        "total_lineas": 19524,
+        "linea_actual": 19524,
+        "estado": "Completado"
+    },
+    "/source/fija/20240207_MCONPUBVVSE1_23699.DAT": {
+        "total_lineas": 8368,
+        "linea_actual": 8368,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE4_29959.DAT": {
+        "total_lineas": 9413,
+        "linea_actual": 9413,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE3_29994.DAT": {
+        "total_lineas": 9299,
+        "linea_actual": 9299,
+        "estado": "Completado"
+    },
+    "/source/fija/20240207_MCONPUBVVSE1_23700.DAT": {
+        "total_lineas": 7799,
+        "linea_actual": 7799,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE3_29995.DAT": {
+        "total_lineas": 4888,
+        "linea_actual": 4888,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE4_29960.DAT": {
+        "total_lineas": 4920,
+        "linea_actual": 4920,
+        "estado": "Completado"
+    },
+    "/source/fija/20240207_MCONPUBVVSE1_23701.DAT": {
+        "total_lineas": 9554,
+        "linea_actual": 9554,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE3_29996.DAT": {
+        "total_lineas": 30130,
+        "linea_actual": 30130,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE4_29961.DAT": {
+        "total_lineas": 31168,
+        "linea_actual": 31168,
+        "estado": "Completado"
+    },
+    "/source/fija/20240207_MCONPUBVVSE1_23702.DAT": {
+        "total_lineas": 53279,
+        "linea_actual": 53279,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE3_29997.DAT": {
+        "total_lineas": 37814,
+        "linea_actual": 37814,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE4_29962.DAT": {
+        "total_lineas": 34010,
+        "linea_actual": 34010,
+        "estado": "Completado"
+    },
+    "/source/fija/20240207_MCONPUBVVSE1_23703.DAT": {
+        "total_lineas": 7353,
+        "linea_actual": 7353,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE4_29963.DAT": {
+        "total_lineas": 5199,
+        "linea_actual": 5199,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE3_29998.DAT": {
+        "total_lineas": 12439,
+        "linea_actual": 12439,
+        "estado": "Completado"
+    },
+    "/source/fija/20240207_MCONPUBVVSE1_23704.DAT": {
+        "total_lineas": 7818,
+        "linea_actual": 7818,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE3_29999.DAT": {
+        "total_lineas": 3506,
+        "linea_actual": 3506,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE4_29964.DAT": {
+        "total_lineas": 3351,
+        "linea_actual": 3351,
+        "estado": "Completado"
+    },
+    "/source/fija/20240207_MCONPUBVVSE1_23705.DAT": {
+        "total_lineas": 6377,
+        "linea_actual": 6377,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE4_29965.DAT": {
+        "total_lineas": 7308,
+        "linea_actual": 7308,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE3_30000.DAT": {
+        "total_lineas": 7423,
+        "linea_actual": 7423,
+        "estado": "Completado"
+    },
+    "/source/fija/20240207_MCONPUBVVSE1_23706.DAT": {
+        "total_lineas": 7201,
+        "linea_actual": 7201,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE3_30001.DAT": {
+        "total_lineas": 27939,
+        "linea_actual": 27939,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE4_29966.DAT": {
+        "total_lineas": 25626,
+        "linea_actual": 25626,
+        "estado": "Completado"
+    },
+    "/source/fija/20240207_MCONPUBVVSE1_23707.DAT": {
+        "total_lineas": 7197,
+        "linea_actual": 7197,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE3_30002.DAT": {
+        "total_lineas": 104138,
+        "linea_actual": 104138,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE4_29967.DAT": {
+        "total_lineas": 91369,
+        "linea_actual": 91369,
+        "estado": "Completado"
+    },
+    "/source/fija/20240207_MCONPUBVVSE1_23708.DAT": {
+        "total_lineas": 10821,
+        "linea_actual": 10821,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE3_30003.DAT": {
+        "total_lineas": 247072,
+        "linea_actual": 247072,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE4_29968.DAT": {
+        "total_lineas": 212406,
+        "linea_actual": 212406,
+        "estado": "Completado"
+    },
+    "/source/fija/20240207_MCONPUBVVSE1_23709.DAT": {
+        "total_lineas": 22031,
+        "linea_actual": 22031,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE4_29969.DAT": {
+        "total_lineas": 293037,
+        "linea_actual": 293037,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE3_30004.DAT": {
+        "total_lineas": 341412,
+        "linea_actual": 341412,
+        "estado": "Completado"
+    },
+    "/source/fija/20240207_MCONPUBVVSE1_23710.DAT": {
+        "total_lineas": 27896,
+        "linea_actual": 27896,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE4_29970.DAT": {
+        "total_lineas": 321871,
+        "linea_actual": 321871,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE3_30005.DAT": {
+        "total_lineas": 374220,
+        "linea_actual": 374220,
+        "estado": "Completado"
+    },
+    "/source/fija/20240207_MCONPUBVVSE1_23711.DAT": {
+        "total_lineas": 26313,
+        "linea_actual": 26313,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE4_29971.DAT": {
+        "total_lineas": 330704,
+        "linea_actual": 330704,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE3_30006.DAT": {
+        "total_lineas": 386596,
+        "linea_actual": 386596,
+        "estado": "Completado"
+    },
+    "/source/fija/20240207_MCONPUBVVSE1_23712.DAT": {
+        "total_lineas": 27278,
+        "linea_actual": 27278,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE3_30007.DAT": {
+        "total_lineas": 381156,
+        "linea_actual": 381156,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE4_29972.DAT": {
+        "total_lineas": 327654,
+        "linea_actual": 327654,
+        "estado": "Completado"
+    },
+    "/source/fija/20240207_MCONPUBVVSE1_23713.DAT": {
+        "total_lineas": 28462,
+        "linea_actual": 28462,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE4_29973.DAT": {
+        "total_lineas": 264994,
+        "linea_actual": 264994,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE3_30008.DAT": {
+        "total_lineas": 304888,
+        "linea_actual": 304888,
+        "estado": "Completado"
+    },
+    "/source/fija/20240207_MCONPUBVVSE1_23714.DAT": {
+        "total_lineas": 23804,
+        "linea_actual": 23804,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE3_30009.DAT": {
+        "total_lineas": 256982,
+        "linea_actual": 256982,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE4_29974.DAT": {
+        "total_lineas": 224884,
+        "linea_actual": 224884,
+        "estado": "Completado"
+    },
+    "/source/fija/20240207_MCONPUBVVSE1_23715.DAT": {
+        "total_lineas": 23311,
+        "linea_actual": 23311,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE4_29975.DAT": {
+        "total_lineas": 251209,
+        "linea_actual": 251209,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE3_30010.DAT": {
+        "total_lineas": 289827,
+        "linea_actual": 289827,
+        "estado": "Completado"
+    },
+    "/source/fija/20240207_MCONPUBVVSE1_23716.DAT": {
+        "total_lineas": 25886,
+        "linea_actual": 25886,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE3_30011.DAT": {
+        "total_lineas": 309359,
+        "linea_actual": 309359,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE4_29976.DAT": {
+        "total_lineas": 269722,
+        "linea_actual": 269722,
+        "estado": "Completado"
+    },
+    "/source/fija/20240207_MCONPUBVVSE1_23717.DAT": {
+        "total_lineas": 26661,
+        "linea_actual": 26661,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE4_29977.DAT": {
+        "total_lineas": 250199,
+        "linea_actual": 250199,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE3_30012.DAT": {
+        "total_lineas": 297474,
+        "linea_actual": 297474,
+        "estado": "Completado"
+    },
+    "/source/fija/20240207_MCONPUBVVSE1_23718.DAT": {
+        "total_lineas": 26277,
+        "linea_actual": 26277,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE4_29978.DAT": {
+        "total_lineas": 233361,
+        "linea_actual": 233361,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE3_30013.DAT": {
+        "total_lineas": 272238,
+        "linea_actual": 272238,
+        "estado": "Completado"
+    },
+    "/source/fija/20240207_MCONPUBVVSE1_23719.DAT": {
+        "total_lineas": 25045,
+        "linea_actual": 25045,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE3_30014.DAT": {
+        "total_lineas": 209094,
+        "linea_actual": 209094,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE4_29979.DAT": {
+        "total_lineas": 179963,
+        "linea_actual": 179963,
+        "estado": "Completado"
+    },
+    "/source/fija/20240207_MCONPUBVVSE1_23720.DAT": {
+        "total_lineas": 21254,
+        "linea_actual": 21254,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE4_29980.DAT": {
+        "total_lineas": 86780,
+        "linea_actual": 86780,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE3_30015.DAT": {
+        "total_lineas": 102624,
+        "linea_actual": 102624,
+        "estado": "Completado"
+    },
+    "/source/fija/20240207_MCONPUBVVSE1_23721.DAT": {
+        "total_lineas": 15350,
+        "linea_actual": 15350,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE3_30016.DAT": {
+        "total_lineas": 48131,
+        "linea_actual": 48131,
+        "estado": "Completado"
+    },
+    "/source/movil/20240207_MCONPUBVVSE4_29981.DAT": {
+        "total_lineas": 40697,
+        "linea_actual": 40697,
+        "estado": "Completado"
+    },
+    "/source/fija/20240207_MCONPUBVVSE1_23722.DAT": {
+        "total_lineas": 11598,
+        "linea_actual": 11598,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE4_29982.DAT": {
+        "total_lineas": 20429,
+        "linea_actual": 20429,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE3_30017.DAT": {
+        "total_lineas": 23198,
+        "linea_actual": 23198,
+        "estado": "Completado"
+    },
+    "/source/fija/20240208_MCONPUBVVSE1_23723.DAT": {
+        "total_lineas": 8762,
+        "linea_actual": 8762,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE4_29983.DAT": {
+        "total_lineas": 9518,
+        "linea_actual": 9518,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE3_30018.DAT": {
+        "total_lineas": 10752,
+        "linea_actual": 10752,
+        "estado": "Completado"
+    },
+    "/source/fija/20240208_MCONPUBVVSE1_23724.DAT": {
+        "total_lineas": 8888,
+        "linea_actual": 8888,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE4_29984.DAT": {
+        "total_lineas": 4850,
+        "linea_actual": 4850,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE3_30019.DAT": {
+        "total_lineas": 5522,
+        "linea_actual": 5522,
+        "estado": "Completado"
+    },
+    "/source/fija/20240208_MCONPUBVVSE1_23725.DAT": {
+        "total_lineas": 8241,
+        "linea_actual": 8241,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE3_30020.DAT": {
+        "total_lineas": 44473,
+        "linea_actual": 44473,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE4_29985.DAT": {
+        "total_lineas": 45434,
+        "linea_actual": 45434,
+        "estado": "Completado"
+    },
+    "/source/fija/20240208_MCONPUBVVSE1_23726.DAT": {
+        "total_lineas": 50469,
+        "linea_actual": 50469,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE4_29986.DAT": {
+        "total_lineas": 49440,
+        "linea_actual": 49440,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE3_30021.DAT": {
+        "total_lineas": 51334,
+        "linea_actual": 51334,
+        "estado": "Completado"
+    },
+    "/source/fija/20240208_MCONPUBVVSE1_23727.DAT": {
+        "total_lineas": 7152,
+        "linea_actual": 7152,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE4_29987.DAT": {
+        "total_lineas": 29905,
+        "linea_actual": 29905,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE3_30022.DAT": {
+        "total_lineas": 39700,
+        "linea_actual": 39700,
+        "estado": "Completado"
+    },
+    "/source/fija/20240208_MCONPUBVVSE1_23728.DAT": {
+        "total_lineas": 7194,
+        "linea_actual": 7194,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE3_30023.DAT": {
+        "total_lineas": 3409,
+        "linea_actual": 3409,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE4_29988.DAT": {
+        "total_lineas": 3225,
+        "linea_actual": 3225,
+        "estado": "Completado"
+    },
+    "/source/fija/20240208_MCONPUBVVSE1_23729.DAT": {
+        "total_lineas": 7385,
+        "linea_actual": 7385,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE3_30024.DAT": {
+        "total_lineas": 7521,
+        "linea_actual": 7521,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE4_29989.DAT": {
+        "total_lineas": 7398,
+        "linea_actual": 7398,
+        "estado": "Completado"
+    },
+    "/source/fija/20240208_MCONPUBVVSE1_23730.DAT": {
+        "total_lineas": 7116,
+        "linea_actual": 7116,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE4_29990.DAT": {
+        "total_lineas": 25170,
+        "linea_actual": 25170,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE3_30025.DAT": {
+        "total_lineas": 27408,
+        "linea_actual": 27408,
+        "estado": "Completado"
+    },
+    "/source/fija/20240208_MCONPUBVVSE1_23731.DAT": {
+        "total_lineas": 7694,
+        "linea_actual": 7694,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE3_30026.DAT": {
+        "total_lineas": 101887,
+        "linea_actual": 101887,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE4_29991.DAT": {
+        "total_lineas": 87732,
+        "linea_actual": 87732,
+        "estado": "Completado"
+    },
+    "/source/fija/20240208_MCONPUBVVSE1_23732.DAT": {
+        "total_lineas": 11131,
+        "linea_actual": 11131,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE4_29992.DAT": {
+        "total_lineas": 214846,
+        "linea_actual": 214846,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE3_30027.DAT": {
+        "total_lineas": 243150,
+        "linea_actual": 243150,
+        "estado": "Completado"
+    },
+    "/source/fija/20240208_MCONPUBVVSE1_23733.DAT": {
+        "total_lineas": 21954,
+        "linea_actual": 21954,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE4_29993.DAT": {
+        "total_lineas": 296288,
+        "linea_actual": 296288,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE3_30028.DAT": {
+        "total_lineas": 344452,
+        "linea_actual": 344452,
+        "estado": "Completado"
+    },
+    "/source/fija/20240208_MCONPUBVVSE1_23734.DAT": {
+        "total_lineas": 26003,
+        "linea_actual": 26003,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE3_30029.DAT": {
+        "total_lineas": 378326,
+        "linea_actual": 378326,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE4_29994.DAT": {
+        "total_lineas": 324135,
+        "linea_actual": 324135,
+        "estado": "Completado"
+    },
+    "/source/fija/20240208_MCONPUBVVSE1_23735.DAT": {
+        "total_lineas": 27770,
+        "linea_actual": 27770,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE3_30030.DAT": {
+        "total_lineas": 413981,
+        "linea_actual": 413981,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE4_29995.DAT": {
+        "total_lineas": 353849,
+        "linea_actual": 353849,
+        "estado": "Completado"
+    },
+    "/source/fija/20240208_MCONPUBVVSE1_23736.DAT": {
+        "total_lineas": 28657,
+        "linea_actual": 28657,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE3_30031.DAT": {
+        "total_lineas": 411277,
+        "linea_actual": 411277,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE4_29996.DAT": {
+        "total_lineas": 352112,
+        "linea_actual": 352112,
+        "estado": "Completado"
+    },
+    "/source/fija/20240208_MCONPUBVVSE1_23737.DAT": {
+        "total_lineas": 32016,
+        "linea_actual": 32016,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE3_30032.DAT": {
+        "total_lineas": 313777,
+        "linea_actual": 313777,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE4_29997.DAT": {
+        "total_lineas": 269646,
+        "linea_actual": 269646,
+        "estado": "Completado"
+    },
+    "/source/fija/20240208_MCONPUBVVSE1_23738.DAT": {
+        "total_lineas": 27526,
+        "linea_actual": 27526,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE4_29998.DAT": {
+        "total_lineas": 225016,
+        "linea_actual": 225016,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE3_30033.DAT": {
+        "total_lineas": 260229,
+        "linea_actual": 260229,
+        "estado": "Completado"
+    },
+    "/source/fija/20240208_MCONPUBVVSE1_23739.DAT": {
+        "total_lineas": 25119,
+        "linea_actual": 25119,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE3_30034.DAT": {
+        "total_lineas": 288035,
+        "linea_actual": 288035,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE4_29999.DAT": {
+        "total_lineas": 248644,
+        "linea_actual": 248644,
+        "estado": "Completado"
+    },
+    "/source/fija/20240208_MCONPUBVVSE1_23740.DAT": {
+        "total_lineas": 24947,
+        "linea_actual": 24947,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE3_30035.DAT": {
+        "total_lineas": 311880,
+        "linea_actual": 311880,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE4_30000.DAT": {
+        "total_lineas": 267459,
+        "linea_actual": 267459,
+        "estado": "Completado"
+    },
+    "/source/fija/20240208_MCONPUBVVSE1_23741.DAT": {
+        "total_lineas": 26204,
+        "linea_actual": 26204,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE4_30001.DAT": {
+        "total_lineas": 257012,
+        "linea_actual": 257012,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE3_30036.DAT": {
+        "total_lineas": 301480,
+        "linea_actual": 301480,
+        "estado": "Completado"
+    },
+    "/source/fija/20240208_MCONPUBVVSE1_23742.DAT": {
+        "total_lineas": 25625,
+        "linea_actual": 25625,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE3_30037.DAT": {
+        "total_lineas": 271232,
+        "linea_actual": 271232,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE4_30002.DAT": {
+        "total_lineas": 232681,
+        "linea_actual": 232681,
+        "estado": "Completado"
+    },
+    "/source/fija/20240208_MCONPUBVVSE1_23743.DAT": {
+        "total_lineas": 24988,
+        "linea_actual": 24988,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE4_30003.DAT": {
+        "total_lineas": 186283,
+        "linea_actual": 186283,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE3_30038.DAT": {
+        "total_lineas": 214980,
+        "linea_actual": 214980,
+        "estado": "Completado"
+    },
+    "/source/fija/20240208_MCONPUBVVSE1_23744.DAT": {
+        "total_lineas": 22320,
+        "linea_actual": 22320,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE4_30004.DAT": {
+        "total_lineas": 90766,
+        "linea_actual": 90766,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE3_30039.DAT": {
+        "total_lineas": 107187,
+        "linea_actual": 107187,
+        "estado": "Completado"
+    },
+    "/source/fija/20240208_MCONPUBVVSE1_23745.DAT": {
+        "total_lineas": 17121,
+        "linea_actual": 17121,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE3_30040.DAT": {
+        "total_lineas": 51092,
+        "linea_actual": 51092,
+        "estado": "Completado"
+    },
+    "/source/movil/20240208_MCONPUBVVSE4_30005.DAT": {
+        "total_lineas": 43219,
+        "linea_actual": 43219,
+        "estado": "Completado"
+    },
+    "/source/fija/20240208_MCONPUBVVSE1_23746.DAT": {
+        "total_lineas": 13563,
+        "linea_actual": 13563,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE3_30041.DAT": {
+        "total_lineas": 26095,
+        "linea_actual": 26095,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE4_30006.DAT": {
+        "total_lineas": 22830,
+        "linea_actual": 22830,
+        "estado": "Completado"
+    },
+    "/source/fija/20240209_MCONPUBVVSE1_23747.DAT": {
+        "total_lineas": 10816,
+        "linea_actual": 10816,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE3_30042.DAT": {
+        "total_lineas": 13122,
+        "linea_actual": 13122,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE4_30007.DAT": {
+        "total_lineas": 12458,
+        "linea_actual": 12458,
+        "estado": "Completado"
+    },
+    "/source/fija/20240209_MCONPUBVVSE1_23748.DAT": {
+        "total_lineas": 11184,
+        "linea_actual": 11184,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE3_30043.DAT": {
+        "total_lineas": 7845,
+        "linea_actual": 7845,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE4_30008.DAT": {
+        "total_lineas": 6953,
+        "linea_actual": 6953,
+        "estado": "Completado"
+    },
+    "/source/fija/20240209_MCONPUBVVSE1_23749.DAT": {
+        "total_lineas": 9746,
+        "linea_actual": 9746,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE3_30044.DAT": {
+        "total_lineas": 53085,
+        "linea_actual": 53085,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE4_30009.DAT": {
+        "total_lineas": 54436,
+        "linea_actual": 54436,
+        "estado": "Completado"
+    },
+    "/source/fija/20240209_MCONPUBVVSE1_23750.DAT": {
+        "total_lineas": 55338,
+        "linea_actual": 55338,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE4_30010.DAT": {
+        "total_lineas": 77539,
+        "linea_actual": 77539,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE3_30045.DAT": {
+        "total_lineas": 80860,
+        "linea_actual": 80860,
+        "estado": "Completado"
+    },
+    "/source/fija/20240209_MCONPUBVVSE1_23751.DAT": {
+        "total_lineas": 10577,
+        "linea_actual": 10577,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE4_30011.DAT": {
+        "total_lineas": 78258,
+        "linea_actual": 78258,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE3_30046.DAT": {
+        "total_lineas": 100355,
+        "linea_actual": 100355,
+        "estado": "Completado"
+    },
+    "/source/fija/20240209_MCONPUBVVSE1_23752.DAT": {
+        "total_lineas": 9562,
+        "linea_actual": 9562,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE4_30012.DAT": {
+        "total_lineas": 5691,
+        "linea_actual": 5691,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE3_30047.DAT": {
+        "total_lineas": 5843,
+        "linea_actual": 5843,
+        "estado": "Completado"
+    },
+    "/source/fija/20240209_MCONPUBVVSE1_23753.DAT": {
+        "total_lineas": 9962,
+        "linea_actual": 9962,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE3_30048.DAT": {
+        "total_lineas": 9147,
+        "linea_actual": 9147,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE4_30013.DAT": {
+        "total_lineas": 8628,
+        "linea_actual": 8628,
+        "estado": "Completado"
+    },
+    "/source/fija/20240209_MCONPUBVVSE1_23754.DAT": {
+        "total_lineas": 8939,
+        "linea_actual": 8939,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE4_30014.DAT": {
+        "total_lineas": 26486,
+        "linea_actual": 26486,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE3_30049.DAT": {
+        "total_lineas": 29646,
+        "linea_actual": 29646,
+        "estado": "Completado"
+    },
+    "/source/fija/20240209_MCONPUBVVSE1_23755.DAT": {
+        "total_lineas": 9339,
+        "linea_actual": 9339,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE3_30050.DAT": {
+        "total_lineas": 101814,
+        "linea_actual": 101814,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE4_30015.DAT": {
+        "total_lineas": 90724,
+        "linea_actual": 90724,
+        "estado": "Completado"
+    },
+    "/source/fija/20240209_MCONPUBVVSE1_23756.DAT": {
+        "total_lineas": 13133,
+        "linea_actual": 13133,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE3_30051.DAT": {
+        "total_lineas": 245191,
+        "linea_actual": 245191,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE4_30016.DAT": {
+        "total_lineas": 212763,
+        "linea_actual": 212763,
+        "estado": "Completado"
+    },
+    "/source/fija/20240209_MCONPUBVVSE1_23757.DAT": {
+        "total_lineas": 22060,
+        "linea_actual": 22060,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE4_30017.DAT": {
+        "total_lineas": 293851,
+        "linea_actual": 293851,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE3_30052.DAT": {
+        "total_lineas": 343488,
+        "linea_actual": 343488,
+        "estado": "Completado"
+    },
+    "/source/fija/20240209_MCONPUBVVSE1_23758.DAT": {
+        "total_lineas": 25991,
+        "linea_actual": 25991,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE3_30053.DAT": {
+        "total_lineas": 375358,
+        "linea_actual": 375358,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE4_30018.DAT": {
+        "total_lineas": 322524,
+        "linea_actual": 322524,
+        "estado": "Completado"
+    },
+    "/source/fija/20240209_MCONPUBVVSE1_23759.DAT": {
+        "total_lineas": 27670,
+        "linea_actual": 27670,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE4_30019.DAT": {
+        "total_lineas": 345097,
+        "linea_actual": 345097,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE3_30054.DAT": {
+        "total_lineas": 402300,
+        "linea_actual": 402300,
+        "estado": "Completado"
+    },
+    "/source/fija/20240209_MCONPUBVVSE1_23760.DAT": {
+        "total_lineas": 28827,
+        "linea_actual": 28827,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE4_30020.DAT": {
+        "total_lineas": 349218,
+        "linea_actual": 349218,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE3_30055.DAT": {
+        "total_lineas": 403950,
+        "linea_actual": 403950,
+        "estado": "Completado"
+    },
+    "/source/fija/20240209_MCONPUBVVSE1_23761.DAT": {
+        "total_lineas": 31712,
+        "linea_actual": 31712,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE3_30056.DAT": {
+        "total_lineas": 334513,
+        "linea_actual": 334513,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE4_30021.DAT": {
+        "total_lineas": 291670,
+        "linea_actual": 291670,
+        "estado": "Completado"
+    },
+    "/source/fija/20240209_MCONPUBVVSE1_23762.DAT": {
+        "total_lineas": 30077,
+        "linea_actual": 30077,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE4_30022.DAT": {
+        "total_lineas": 220882,
+        "linea_actual": 220882,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE3_30057.DAT": {
+        "total_lineas": 256296,
+        "linea_actual": 256296,
+        "estado": "Completado"
+    },
+    "/source/fija/20240209_MCONPUBVVSE1_23763.DAT": {
+        "total_lineas": 27478,
+        "linea_actual": 27478,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE4_30023.DAT": {
+        "total_lineas": 219180,
+        "linea_actual": 219180,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE3_30058.DAT": {
+        "total_lineas": 250463,
+        "linea_actual": 250463,
+        "estado": "Completado"
+    },
+    "/source/fija/20240209_MCONPUBVVSE1_23764.DAT": {
+        "total_lineas": 27878,
+        "linea_actual": 27878,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE4_30024.DAT": {
+        "total_lineas": 228889,
+        "linea_actual": 228889,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE3_30059.DAT": {
+        "total_lineas": 266140,
+        "linea_actual": 266140,
+        "estado": "Completado"
+    },
+    "/source/fija/20240209_MCONPUBVVSE1_23765.DAT": {
+        "total_lineas": 27100,
+        "linea_actual": 27100,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE3_30060.DAT": {
+        "total_lineas": 261934,
+        "linea_actual": 261934,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE4_30025.DAT": {
+        "total_lineas": 224695,
+        "linea_actual": 224695,
+        "estado": "Completado"
+    },
+    "/source/fija/20240209_MCONPUBVVSE1_23766.DAT": {
+        "total_lineas": 26997,
+        "linea_actual": 26997,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE3_30061.DAT": {
+        "total_lineas": 258169,
+        "linea_actual": 258169,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE4_30026.DAT": {
+        "total_lineas": 223078,
+        "linea_actual": 223078,
+        "estado": "Completado"
+    },
+    "/source/fija/20240209_MCONPUBVVSE1_23767.DAT": {
+        "total_lineas": 28436,
+        "linea_actual": 28436,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE3_30062.DAT": {
+        "total_lineas": 211863,
+        "linea_actual": 211863,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE4_30027.DAT": {
+        "total_lineas": 183871,
+        "linea_actual": 183871,
+        "estado": "Completado"
+    },
+    "/source/fija/20240209_MCONPUBVVSE1_23768.DAT": {
+        "total_lineas": 25065,
+        "linea_actual": 25065,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE3_30063.DAT": {
+        "total_lineas": 115817,
+        "linea_actual": 115817,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE4_30028.DAT": {
+        "total_lineas": 103576,
+        "linea_actual": 103576,
+        "estado": "Completado"
+    },
+    "/source/fija/20240209_MCONPUBVVSE1_23769.DAT": {
+        "total_lineas": 20159,
+        "linea_actual": 20159,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE4_30029.DAT": {
+        "total_lineas": 58305,
+        "linea_actual": 58305,
+        "estado": "Completado"
+    },
+    "/source/movil/20240209_MCONPUBVVSE3_30064.DAT": {
+        "total_lineas": 67455,
+        "linea_actual": 67455,
+        "estado": "Completado"
+    },
+    "/source/fija/20240209_MCONPUBVVSE1_23770.DAT": {
+        "total_lineas": 14398,
+        "linea_actual": 14398,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE4_30030.DAT": {
+        "total_lineas": 37222,
+        "linea_actual": 37222,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE3_30065.DAT": {
+        "total_lineas": 42240,
+        "linea_actual": 42240,
+        "estado": "Completado"
+    },
+    "/source/fija/20240210_MCONPUBVVSE1_23771.DAT": {
+        "total_lineas": 12190,
+        "linea_actual": 12190,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE4_30031.DAT": {
+        "total_lineas": 24935,
+        "linea_actual": 24935,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE3_30066.DAT": {
+        "total_lineas": 28022,
+        "linea_actual": 28022,
+        "estado": "Completado"
+    },
+    "/source/fija/20240210_MCONPUBVVSE1_23772.DAT": {
+        "total_lineas": 11763,
+        "linea_actual": 11763,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE4_30032.DAT": {
+        "total_lineas": 17102,
+        "linea_actual": 17102,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE3_30067.DAT": {
+        "total_lineas": 18924,
+        "linea_actual": 18924,
+        "estado": "Completado"
+    },
+    "/source/fija/20240210_MCONPUBVVSE1_23773.DAT": {
+        "total_lineas": 11198,
+        "linea_actual": 11198,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE3_30068.DAT": {
+        "total_lineas": 64791,
+        "linea_actual": 64791,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE4_30033.DAT": {
+        "total_lineas": 67579,
+        "linea_actual": 67579,
+        "estado": "Completado"
+    },
+    "/source/fija/20240210_MCONPUBVVSE1_23774.DAT": {
+        "total_lineas": 52991,
+        "linea_actual": 52991,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE4_30034.DAT": {
+        "total_lineas": 88544,
+        "linea_actual": 88544,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE3_30069.DAT": {
+        "total_lineas": 96052,
+        "linea_actual": 96052,
+        "estado": "Completado"
+    },
+    "/source/fija/20240210_MCONPUBVVSE1_23775.DAT": {
+        "total_lineas": 10010,
+        "linea_actual": 10010,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE4_30035.DAT": {
+        "total_lineas": 76040,
+        "linea_actual": 76040,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE3_30070.DAT": {
+        "total_lineas": 97161,
+        "linea_actual": 97161,
+        "estado": "Completado"
+    },
+    "/source/fija/20240210_MCONPUBVVSE1_23776.DAT": {
+        "total_lineas": 9824,
+        "linea_actual": 9824,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE3_30071.DAT": {
+        "total_lineas": 9752,
+        "linea_actual": 9752,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE4_30036.DAT": {
+        "total_lineas": 8292,
+        "linea_actual": 8292,
+        "estado": "Completado"
+    },
+    "/source/fija/20240210_MCONPUBVVSE1_23777.DAT": {
+        "total_lineas": 8778,
+        "linea_actual": 8778,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE4_30037.DAT": {
+        "total_lineas": 8449,
+        "linea_actual": 8449,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE3_30072.DAT": {
+        "total_lineas": 8638,
+        "linea_actual": 8638,
+        "estado": "Completado"
+    },
+    "/source/fija/20240210_MCONPUBVVSE1_23778.DAT": {
+        "total_lineas": 8943,
+        "linea_actual": 8943,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE3_30073.DAT": {
+        "total_lineas": 9775,
+        "linea_actual": 9775,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE4_30038.DAT": {
+        "total_lineas": 8983,
+        "linea_actual": 8983,
+        "estado": "Completado"
+    },
+    "/source/fija/20240210_MCONPUBVVSE1_23779.DAT": {
+        "total_lineas": 9022,
+        "linea_actual": 9022,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE4_30039.DAT": {
+        "total_lineas": 21605,
+        "linea_actual": 21605,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE3_30074.DAT": {
+        "total_lineas": 25309,
+        "linea_actual": 25309,
+        "estado": "Completado"
+    },
+    "/source/fija/20240210_MCONPUBVVSE1_23780.DAT": {
+        "total_lineas": 9464,
+        "linea_actual": 9464,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE3_30075.DAT": {
+        "total_lineas": 70529,
+        "linea_actual": 70529,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE4_30040.DAT": {
+        "total_lineas": 61499,
+        "linea_actual": 61499,
+        "estado": "Completado"
+    },
+    "/source/fija/20240210_MCONPUBVVSE1_23781.DAT": {
+        "total_lineas": 12753,
+        "linea_actual": 12753,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE4_30041.DAT": {
+        "total_lineas": 103086,
+        "linea_actual": 103086,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE3_30076.DAT": {
+        "total_lineas": 125435,
+        "linea_actual": 125435,
+        "estado": "Completado"
+    },
+    "/source/fija/20240210_MCONPUBVVSE1_23782.DAT": {
+        "total_lineas": 15315,
+        "linea_actual": 15315,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE4_30042.DAT": {
+        "total_lineas": 136343,
+        "linea_actual": 136343,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE3_30077.DAT": {
+        "total_lineas": 159290,
+        "linea_actual": 159290,
+        "estado": "Completado"
+    },
+    "/source/fija/20240210_MCONPUBVVSE1_23783.DAT": {
+        "total_lineas": 17833,
+        "linea_actual": 17833,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE3_30078.DAT": {
+        "total_lineas": 177432,
+        "linea_actual": 177432,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE4_30043.DAT": {
+        "total_lineas": 150309,
+        "linea_actual": 150309,
+        "estado": "Completado"
+    },
+    "/source/fija/20240210_MCONPUBVVSE1_23784.DAT": {
+        "total_lineas": 18301,
+        "linea_actual": 18301,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE4_30044.DAT": {
+        "total_lineas": 150104,
+        "linea_actual": 150104,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE3_30079.DAT": {
+        "total_lineas": 171812,
+        "linea_actual": 171812,
+        "estado": "Completado"
+    },
+    "/source/fija/20240210_MCONPUBVVSE1_23785.DAT": {
+        "total_lineas": 19959,
+        "linea_actual": 19959,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE4_30045.DAT": {
+        "total_lineas": 109198,
+        "linea_actual": 109198,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE3_30080.DAT": {
+        "total_lineas": 124811,
+        "linea_actual": 124811,
+        "estado": "Completado"
+    },
+    "/source/fija/20240210_MCONPUBVVSE1_23786.DAT": {
+        "total_lineas": 18819,
+        "linea_actual": 18819,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE3_30081.DAT": {
+        "total_lineas": 90254,
+        "linea_actual": 90254,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE4_30046.DAT": {
+        "total_lineas": 80011,
+        "linea_actual": 80011,
+        "estado": "Completado"
+    },
+    "/source/fija/20240210_MCONPUBVVSE1_23787.DAT": {
+        "total_lineas": 17779,
+        "linea_actual": 17779,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE3_30082.DAT": {
+        "total_lineas": 89195,
+        "linea_actual": 89195,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE4_30047.DAT": {
+        "total_lineas": 80328,
+        "linea_actual": 80328,
+        "estado": "Completado"
+    },
+    "/source/fija/20240210_MCONPUBVVSE1_23788.DAT": {
+        "total_lineas": 16341,
+        "linea_actual": 16341,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE4_30048.DAT": {
+        "total_lineas": 95258,
+        "linea_actual": 95258,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE3_30083.DAT": {
+        "total_lineas": 108470,
+        "linea_actual": 108470,
+        "estado": "Completado"
+    },
+    "/source/fija/20240210_MCONPUBVVSE1_23789.DAT": {
+        "total_lineas": 18103,
+        "linea_actual": 18103,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE4_30049.DAT": {
+        "total_lineas": 107796,
+        "linea_actual": 107796,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE3_30084.DAT": {
+        "total_lineas": 122674,
+        "linea_actual": 122674,
+        "estado": "Completado"
+    },
+    "/source/fija/20240210_MCONPUBVVSE1_23790.DAT": {
+        "total_lineas": 18167,
+        "linea_actual": 18167,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE3_30085.DAT": {
+        "total_lineas": 129908,
+        "linea_actual": 129908,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE4_30050.DAT": {
+        "total_lineas": 114542,
+        "linea_actual": 114542,
+        "estado": "Completado"
+    },
+    "/source/fija/20240210_MCONPUBVVSE1_23791.DAT": {
+        "total_lineas": 17313,
+        "linea_actual": 17313,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE3_30086.DAT": {
+        "total_lineas": 129662,
+        "linea_actual": 129662,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE4_30051.DAT": {
+        "total_lineas": 115454,
+        "linea_actual": 115454,
+        "estado": "Completado"
+    },
+    "/source/fija/20240210_MCONPUBVVSE1_23792.DAT": {
+        "total_lineas": 17070,
+        "linea_actual": 17070,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE4_30052.DAT": {
+        "total_lineas": 91407,
+        "linea_actual": 91407,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE3_30087.DAT": {
+        "total_lineas": 103795,
+        "linea_actual": 103795,
+        "estado": "Completado"
+    },
+    "/source/fija/20240210_MCONPUBVVSE1_23793.DAT": {
+        "total_lineas": 16331,
+        "linea_actual": 16331,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE3_30088.DAT": {
+        "total_lineas": 67386,
+        "linea_actual": 67386,
+        "estado": "Completado"
+    },
+    "/source/movil/20240210_MCONPUBVVSE4_30053.DAT": {
+        "total_lineas": 61637,
+        "linea_actual": 61637,
+        "estado": "Completado"
+    },
+    "/source/fija/20240210_MCONPUBVVSE1_23794.DAT": {
+        "total_lineas": 12894,
+        "linea_actual": 12894,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE3_30089.DAT": {
+        "total_lineas": 49715,
+        "linea_actual": 49715,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE4_30054.DAT": {
+        "total_lineas": 45449,
+        "linea_actual": 45449,
+        "estado": "Completado"
+    },
+    "/source/fija/20240211_MCONPUBVVSE1_23795.DAT": {
+        "total_lineas": 11098,
+        "linea_actual": 11098,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE3_30090.DAT": {
+        "total_lineas": 39179,
+        "linea_actual": 39179,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE4_30055.DAT": {
+        "total_lineas": 37144,
+        "linea_actual": 37144,
+        "estado": "Completado"
+    },
+    "/source/fija/20240211_MCONPUBVVSE1_23796.DAT": {
+        "total_lineas": 10767,
+        "linea_actual": 10767,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE3_30091.DAT": {
+        "total_lineas": 29917,
+        "linea_actual": 29917,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE4_30056.DAT": {
+        "total_lineas": 28926,
+        "linea_actual": 28926,
+        "estado": "Completado"
+    },
+    "/source/fija/20240211_MCONPUBVVSE1_23797.DAT": {
+        "total_lineas": 9349,
+        "linea_actual": 9349,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE3_30092.DAT": {
+        "total_lineas": 96127,
+        "linea_actual": 96127,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE4_30057.DAT": {
+        "total_lineas": 94305,
+        "linea_actual": 94305,
+        "estado": "Completado"
+    },
+    "/source/fija/20240211_MCONPUBVVSE1_23798.DAT": {
+        "total_lineas": 26734,
+        "linea_actual": 26734,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE3_30093.DAT": {
+        "total_lineas": 122694,
+        "linea_actual": 122694,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE4_30058.DAT": {
+        "total_lineas": 111422,
+        "linea_actual": 111422,
+        "estado": "Completado"
+    },
+    "/source/fija/20240211_MCONPUBVVSE1_23799.DAT": {
+        "total_lineas": 10007,
+        "linea_actual": 10007,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE4_30059.DAT": {
+        "total_lineas": 54104,
+        "linea_actual": 54104,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE3_30094.DAT": {
+        "total_lineas": 69656,
+        "linea_actual": 69656,
+        "estado": "Completado"
+    },
+    "/source/fija/20240211_MCONPUBVVSE1_23800.DAT": {
+        "total_lineas": 8986,
+        "linea_actual": 8986,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE4_30060.DAT": {
+        "total_lineas": 14881,
+        "linea_actual": 14881,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE3_30095.DAT": {
+        "total_lineas": 15593,
+        "linea_actual": 15593,
+        "estado": "Completado"
+    },
+    "/source/fija/20240211_MCONPUBVVSE1_23801.DAT": {
+        "total_lineas": 8744,
+        "linea_actual": 8744,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE4_30061.DAT": {
+        "total_lineas": 13358,
+        "linea_actual": 13358,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE3_30096.DAT": {
+        "total_lineas": 13986,
+        "linea_actual": 13986,
+        "estado": "Completado"
+    },
+    "/source/fija/20240211_MCONPUBVVSE1_23802.DAT": {
+        "total_lineas": 8615,
+        "linea_actual": 8615,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE4_30062.DAT": {
+        "total_lineas": 9928,
+        "linea_actual": 9928,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE3_30097.DAT": {
+        "total_lineas": 10722,
+        "linea_actual": 10722,
+        "estado": "Completado"
+    },
+    "/source/fija/20240211_MCONPUBVVSE1_23803.DAT": {
+        "total_lineas": 9814,
+        "linea_actual": 9814,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE4_30063.DAT": {
+        "total_lineas": 14813,
+        "linea_actual": 14813,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE3_30098.DAT": {
+        "total_lineas": 18398,
+        "linea_actual": 18398,
+        "estado": "Completado"
+    },
+    "/source/fija/20240211_MCONPUBVVSE1_23804.DAT": {
+        "total_lineas": 9236,
+        "linea_actual": 9236,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE3_30099.DAT": {
+        "total_lineas": 38051,
+        "linea_actual": 38051,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE4_30064.DAT": {
+        "total_lineas": 33842,
+        "linea_actual": 33842,
+        "estado": "Completado"
+    },
+    "/source/fija/20240211_MCONPUBVVSE1_23805.DAT": {
+        "total_lineas": 11531,
+        "linea_actual": 11531,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE4_30065.DAT": {
+        "total_lineas": 62661,
+        "linea_actual": 62661,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE3_30100.DAT": {
+        "total_lineas": 74535,
+        "linea_actual": 74535,
+        "estado": "Completado"
+    },
+    "/source/fija/20240211_MCONPUBVVSE1_23806.DAT": {
+        "total_lineas": 14118,
+        "linea_actual": 14118,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE4_30066.DAT": {
+        "total_lineas": 92637,
+        "linea_actual": 92637,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE3_30101.DAT": {
+        "total_lineas": 108906,
+        "linea_actual": 108906,
+        "estado": "Completado"
+    },
+    "/source/fija/20240211_MCONPUBVVSE1_23807.DAT": {
+        "total_lineas": 16882,
+        "linea_actual": 16882,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE3_30102.DAT": {
+        "total_lineas": 124172,
+        "linea_actual": 124172,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE4_30067.DAT": {
+        "total_lineas": 105322,
+        "linea_actual": 105322,
+        "estado": "Completado"
+    },
+    "/source/fija/20240211_MCONPUBVVSE1_23808.DAT": {
+        "total_lineas": 18482,
+        "linea_actual": 18482,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE4_30068.DAT": {
+        "total_lineas": 105118,
+        "linea_actual": 105118,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE3_30103.DAT": {
+        "total_lineas": 122384,
+        "linea_actual": 122384,
+        "estado": "Completado"
+    },
+    "/source/fija/20240211_MCONPUBVVSE1_23809.DAT": {
+        "total_lineas": 18874,
+        "linea_actual": 18874,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE3_30104.DAT": {
+        "total_lineas": 86832,
+        "linea_actual": 86832,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE4_30069.DAT": {
+        "total_lineas": 75525,
+        "linea_actual": 75525,
+        "estado": "Completado"
+    },
+    "/source/fija/20240211_MCONPUBVVSE1_23810.DAT": {
+        "total_lineas": 16724,
+        "linea_actual": 16724,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE4_30070.DAT": {
+        "total_lineas": 51982,
+        "linea_actual": 51982,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE3_30105.DAT": {
+        "total_lineas": 60263,
+        "linea_actual": 60263,
+        "estado": "Completado"
+    },
+    "/source/fija/20240211_MCONPUBVVSE1_23811.DAT": {
+        "total_lineas": 15027,
+        "linea_actual": 15027,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE4_30071.DAT": {
+        "total_lineas": 54477,
+        "linea_actual": 54477,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE3_30106.DAT": {
+        "total_lineas": 62153,
+        "linea_actual": 62153,
+        "estado": "Completado"
+    },
+    "/source/fija/20240211_MCONPUBVVSE1_23812.DAT": {
+        "total_lineas": 13272,
+        "linea_actual": 13272,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE4_30072.DAT": {
+        "total_lineas": 66762,
+        "linea_actual": 66762,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE3_30107.DAT": {
+        "total_lineas": 76974,
+        "linea_actual": 76974,
+        "estado": "Completado"
+    },
+    "/source/fija/20240211_MCONPUBVVSE1_23813.DAT": {
+        "total_lineas": 13804,
+        "linea_actual": 13804,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE4_30073.DAT": {
+        "total_lineas": 81724,
+        "linea_actual": 81724,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE3_30108.DAT": {
+        "total_lineas": 94307,
+        "linea_actual": 94307,
+        "estado": "Completado"
+    },
+    "/source/fija/20240211_MCONPUBVVSE1_23814.DAT": {
+        "total_lineas": 15548,
+        "linea_actual": 15548,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE4_30074.DAT": {
+        "total_lineas": 87177,
+        "linea_actual": 87177,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE3_30109.DAT": {
+        "total_lineas": 102380,
+        "linea_actual": 102380,
+        "estado": "Completado"
+    },
+    "/source/fija/20240211_MCONPUBVVSE1_23815.DAT": {
+        "total_lineas": 16260,
+        "linea_actual": 16260,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE3_30110.DAT": {
+        "total_lineas": 96740,
+        "linea_actual": 96740,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE4_30075.DAT": {
+        "total_lineas": 84622,
+        "linea_actual": 84622,
+        "estado": "Completado"
+    },
+    "/source/fija/20240211_MCONPUBVVSE1_23816.DAT": {
+        "total_lineas": 15722,
+        "linea_actual": 15722,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE4_30076.DAT": {
+        "total_lineas": 62535,
+        "linea_actual": 62535,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE3_30111.DAT": {
+        "total_lineas": 70529,
+        "linea_actual": 70529,
+        "estado": "Completado"
+    },
+    "/source/fija/20240211_MCONPUBVVSE1_23817.DAT": {
+        "total_lineas": 15712,
+        "linea_actual": 15712,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE3_30112.DAT": {
+        "total_lineas": 42749,
+        "linea_actual": 42749,
+        "estado": "Completado"
+    },
+    "/source/movil/20240211_MCONPUBVVSE4_30077.DAT": {
+        "total_lineas": 37009,
+        "linea_actual": 37009,
+        "estado": "Completado"
+    },
+    "/source/fija/20240211_MCONPUBVVSE1_23818.DAT": {
+        "total_lineas": 12870,
+        "linea_actual": 12870,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE4_30078.DAT": {
+        "total_lineas": 20664,
+        "linea_actual": 20664,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE3_30113.DAT": {
+        "total_lineas": 24535,
+        "linea_actual": 24535,
+        "estado": "Completado"
+    },
+    "/source/fija/20240212_MCONPUBVVSE1_23819.DAT": {
+        "total_lineas": 11608,
+        "linea_actual": 11608,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE3_30114.DAT": {
+        "total_lineas": 13222,
+        "linea_actual": 13222,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE4_30079.DAT": {
+        "total_lineas": 11919,
+        "linea_actual": 11919,
+        "estado": "Completado"
+    },
+    "/source/fija/20240212_MCONPUBVVSE1_23820.DAT": {
+        "total_lineas": 10610,
+        "linea_actual": 10610,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE4_30080.DAT": {
+        "total_lineas": 6611,
+        "linea_actual": 6611,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE3_30115.DAT": {
+        "total_lineas": 7104,
+        "linea_actual": 7104,
+        "estado": "Completado"
+    },
+    "/source/fija/20240212_MCONPUBVVSE1_23821.DAT": {
+        "total_lineas": 9241,
+        "linea_actual": 9241,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE3_30116.DAT": {
+        "total_lineas": 81831,
+        "linea_actual": 81831,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE4_30081.DAT": {
+        "total_lineas": 81369,
+        "linea_actual": 81369,
+        "estado": "Completado"
+    },
+    "/source/fija/20240212_MCONPUBVVSE1_23822.DAT": {
+        "total_lineas": 22885,
+        "linea_actual": 22885,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE3_30117.DAT": {
+        "total_lineas": 108462,
+        "linea_actual": 108462,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE4_30082.DAT": {
+        "total_lineas": 100568,
+        "linea_actual": 100568,
+        "estado": "Completado"
+    },
+    "/source/fija/20240212_MCONPUBVVSE1_23823.DAT": {
+        "total_lineas": 10574,
+        "linea_actual": 10574,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE3_30118.DAT": {
+        "total_lineas": 52746,
+        "linea_actual": 52746,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE4_30083.DAT": {
+        "total_lineas": 37453,
+        "linea_actual": 37453,
+        "estado": "Completado"
+    },
+    "/source/fija/20240212_MCONPUBVVSE1_23824.DAT": {
+        "total_lineas": 9534,
+        "linea_actual": 9534,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE3_30119.DAT": {
+        "total_lineas": 3662,
+        "linea_actual": 3662,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE4_30084.DAT": {
+        "total_lineas": 3630,
+        "linea_actual": 3630,
+        "estado": "Completado"
+    },
+    "/source/fija/20240212_MCONPUBVVSE1_23825.DAT": {
+        "total_lineas": 10167,
+        "linea_actual": 10167,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE3_30120.DAT": {
+        "total_lineas": 7559,
+        "linea_actual": 7559,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE4_30085.DAT": {
+        "total_lineas": 7581,
+        "linea_actual": 7581,
+        "estado": "Completado"
+    },
+    "/source/fija/20240212_MCONPUBVVSE1_23826.DAT": {
+        "total_lineas": 10059,
+        "linea_actual": 10059,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE4_30086.DAT": {
+        "total_lineas": 22744,
+        "linea_actual": 22744,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE3_30121.DAT": {
+        "total_lineas": 24914,
+        "linea_actual": 24914,
+        "estado": "Completado"
+    },
+    "/source/fija/20240212_MCONPUBVVSE1_23827.DAT": {
+        "total_lineas": 10187,
+        "linea_actual": 10187,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE3_30122.DAT": {
+        "total_lineas": 94344,
+        "linea_actual": 94344,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE4_30087.DAT": {
+        "total_lineas": 80738,
+        "linea_actual": 80738,
+        "estado": "Completado"
+    },
+    "/source/fija/20240212_MCONPUBVVSE1_23828.DAT": {
+        "total_lineas": 14423,
+        "linea_actual": 14423,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE4_30088.DAT": {
+        "total_lineas": 198126,
+        "linea_actual": 198126,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE3_30123.DAT": {
+        "total_lineas": 226491,
+        "linea_actual": 226491,
+        "estado": "Completado"
+    },
+    "/source/fija/20240212_MCONPUBVVSE1_23829.DAT": {
+        "total_lineas": 25185,
+        "linea_actual": 25185,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE4_30089.DAT": {
+        "total_lineas": 281132,
+        "linea_actual": 281132,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE3_30124.DAT": {
+        "total_lineas": 327376,
+        "linea_actual": 327376,
+        "estado": "Completado"
+    },
+    "/source/fija/20240212_MCONPUBVVSE1_23830.DAT": {
+        "total_lineas": 31013,
+        "linea_actual": 31013,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE4_30090.DAT": {
+        "total_lineas": 315491,
+        "linea_actual": 315491,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE3_30125.DAT": {
+        "total_lineas": 367140,
+        "linea_actual": 367140,
+        "estado": "Completado"
+    },
+    "/source/fija/20240212_MCONPUBVVSE1_23831.DAT": {
+        "total_lineas": 31366,
+        "linea_actual": 31366,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE4_30091.DAT": {
+        "total_lineas": 338365,
+        "linea_actual": 338365,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE3_30126.DAT": {
+        "total_lineas": 392311,
+        "linea_actual": 392311,
+        "estado": "Completado"
+    },
+    "/source/fija/20240212_MCONPUBVVSE1_23832.DAT": {
+        "total_lineas": 31936,
+        "linea_actual": 31936,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE3_30127.DAT": {
+        "total_lineas": 373387,
+        "linea_actual": 373387,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE4_30092.DAT": {
+        "total_lineas": 322122,
+        "linea_actual": 322122,
+        "estado": "Completado"
+    },
+    "/source/fija/20240212_MCONPUBVVSE1_23833.DAT": {
+        "total_lineas": 33333,
+        "linea_actual": 33333,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE4_30093.DAT": {
+        "total_lineas": 247436,
+        "linea_actual": 247436,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE3_30128.DAT": {
+        "total_lineas": 287308,
+        "linea_actual": 287308,
+        "estado": "Completado"
+    },
+    "/source/fija/20240212_MCONPUBVVSE1_23834.DAT": {
+        "total_lineas": 28204,
+        "linea_actual": 28204,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE3_30129.DAT": {
+        "total_lineas": 242032,
+        "linea_actual": 242032,
+        "estado": "Completado"
+    },
+    "/source/movil/20240212_MCONPUBVVSE4_30094.DAT": {
+        "total_lineas": 209462,
+        "linea_actual": 209462,
+        "estado": "Completado"
+    },
+    "/source/fija/20240212_MCONPUBVVSE1_23835.DAT": {
+        "total_lineas": 26463,
+        "linea_actual": 26463,
+        "estado": "Completado"
+    }
+}
