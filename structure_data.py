@@ -4,9 +4,9 @@ import logging.config
 import platform
 from collections import defaultdict
 from datetime import date
-from dateutil import tz
-from dateutil import parser
 import pytz
+
+from auxOFC import OfcEventDet
 
 """Inicialización y configuración de logging"""
 
@@ -34,6 +34,14 @@ fh = logging.FileHandler(f'logs/log-file-{hoy}.log')
 formatter = logging.Formatter('%(asctime)-10s :: %(name)-10s :: %(levelname)-10s :: %(message)30s')
 fh.setFormatter(formatter)
 LOGGER.addHandler(fh)
+
+
+"""Inicialización y configuración de eventos adicionales"""
+
+eventFileName = config["EVENTS"]["EVENT_FILE_NAME"]
+eventsIgnored = config["EVENTS"]["EVENTS_IGNORED"]
+
+OfcEventDet(eventFileName,eventsIgnored)
 
 
 def estructura(dato):
@@ -107,6 +115,10 @@ def estructura(dato):
             lista_final["event"]["name"] = "Tot. Baja de buzón"
         elif event_number == "182":
             lista_final["event"]["name"] = "Tot. Buzón lleno"
+        else:
+            evName = OfcEventDet.getEventName(event_number,event_type)
+            if len(evName) > 0:
+                lista_final["event"]["name"] = evName
 
             ####### EVENT TYPE ########
         LOGGER.debug("[STRUCTURE_DATA] - Definiendo tipo...")

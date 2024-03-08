@@ -629,7 +629,7 @@ if __name__ == "__main__":
 
     LOGGER.propagate = propagacion
     LOGGER.info(
-        f"-----------   Programa Iniciado   ---------------------"
+        f"-----------   Programa Iniciado v2.0.0   ---------------------"
     )
 
     QUEUE_WATCHER = Queue(int(config["QUEUE_CONFIG"]["QUEUE_WATCHER"]))
