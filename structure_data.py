@@ -40,8 +40,9 @@ LOGGER.addHandler(fh)
 
 eventFileName = config["EVENTS"]["EVENT_FILE_NAME"]
 eventsIgnored = config["EVENTS"]["EVENTS_IGNORED"]
+eventsIgnoredNonConfigFile = "152","190","191","192","194","195","281","290","161","159","539","947","006","666","250","252","182","004","010","151","852","851","500","501","502","503","553","530","520","163","165","236"
 
-OfcEventDet(eventFileName,eventsIgnored)
+OfcEventDet(eventFileName,eventsIgnored,eventsIgnoredNonConfigFile)
 
 
 def estructura(dato):

@@ -18,9 +18,10 @@ class OfcEventDet:
     eventsFile = 'dump_bicssdbdata.txt'
     ofcEvents = []
 
-    def __init__(self, eventsFile,ignoredEvents):
+    def __init__(self, eventsFile,ignoredEvents,ignoredEventsNonConfigFile):
         OfcEventDet.eventsFile = eventsFile
         OfcEventDet.ignoredEvents = ignoredEvents
+        OfcEventDet.ignoredEventsNonConfigFile = ignoredEventsNonConfigFile
         OfcEventDet.loadEvents()
 
     @staticmethod
@@ -42,7 +43,7 @@ class OfcEventDet:
 
     @staticmethod
     def check(evNum,evTyp):
-        if evNum not in OfcEventDet.ignoredEvents:
+        if evNum not in OfcEventDet.ignoredEvents and evNum not in OfcEventDet.ignoredEventsNonConfigFile:
             i=0
             while i < len(OfcEventDet.ofcEvents):
                 if OfcEventDet.ofcEvents[i].rep_num == evNum and OfcEventDet.ofcEvents[i].rep_type == evTyp:
@@ -61,7 +62,7 @@ class OfcEventDet:
     def getEventName(evNum,evTyp):
         evName = ''
         
-        if evNum not in OfcEventDet.ignoredEvents:
+        if evNum not in OfcEventDet.ignoredEvents and evNum not in OfcEventDet.ignoredEventsNonConfigFile:
             i=0
             while i < len(OfcEventDet.ofcEvents):
                 if OfcEventDet.ofcEvents[i].rep_num == evNum and OfcEventDet.ofcEvents[i].rep_type == evTyp:
